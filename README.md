@@ -22,7 +22,7 @@
 | Member                       | Code       |
 |------------------------------|------------|
 |  Yasser Rentería Palacios | U202214130 |
-|  |  |
+|  Adrian Valerio Garcia | U202210334 |
 |     |  |
 |     |  |
 |       |  |
