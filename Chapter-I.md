@@ -9,7 +9,6 @@ Este servicio, aunque muy utilizado, suele operar sin información pública ni e
 
 Asimismo, proporcionaremos mayores facilidades a los usuarios, haciendo su día a día más cómodo y eficiente. Sin perder la esencia flexible del servicio colectivo, buscamos fomentar una movilidad más accesible, eficiente y alineada con las verdaderas necesidades de los usuarios.
 
-
 ### 1.1.2. Perfiles de integrantes del equipo
 
 
