@@ -35,4 +35,38 @@ Al resolver este problema, esperamos que los usuarios puedan localizar fácilmen
 
 ## 1.3. Segmentos objetivo
 
+#### 1. **Pasajeros que usualmente toman colectivos de rutas de tramos intermedios (pueblo a pueblo / distrito a distrito)**
+
+Este segmento está compuesto principalmente por personas que necesitan movilizarse entre zonas periféricas, pueblos cercanos o distritos colindantes donde el transporte público tradicional es limitado, ineficiente o inexistente. 
+
+**Características demográficas:**
+- **Edad promedio:** 20 - 60 años.
+- **Ocupación:** Trabajadores informales, comerciantes, estudiantes universitarios y técnicos, amas de casa.
+- **Nivel socioeconómico:** Medio bajo a bajo.
+- **Ubicación:** Viven en zonas urbanas periféricas o rurales con acceso limitado al transporte público.
+- **Frecuencia de uso:** Diaria o interdiaria, especialmente en horarios punta.
+
+**Necesidades:**
+- Movilidad rápida, económica y flexible.
+- Disponibilidad de transporte en horarios amplios (incluyendo temprano en la mañana y noche).
+- Información clara sobre puntos de partida, paraderos, tarifas y horarios.
+
+---
+
+#### 2. **Conductores de colectivos (transporte informal tipo taxi compartido)**
+
+Este grupo representa a los operadores informales que ofrecen servicios de transporte colectivo, mayoritariamente en vehículos particulares. Ellos cubren rutas establecidas entre distritos o pueblos, recogiendo y dejando pasajeros en puntos acordados o paraderos informales.
+
+**Características demográficas:**
+- **Edad promedio:** 30 - 55 años.
+- **Ocupación:** Conductores independientes, en su mayoría informales.
+- **Nivel educativo:** Secundaria completa en promedio.
+- **Tipo de vehículo:** Autos sedán, minivans, station wagon, en su mayoría propios.
+- **Zona de operación:** Zonas periféricas, pueblos intermedios y distritos con alta demanda y poca oferta de transporte formal.
+
+**Motivaciones:**
+- Generar ingresos diarios de forma flexible.
+- Maximizar recorridos eficientes con más pasajeros en menor tiempo.
+- Contar con herramientas que les permitan ser más visibles y captar pasajeros fácilmente.
+
 
