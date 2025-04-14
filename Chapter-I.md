@@ -52,7 +52,33 @@ Asimismo, proporcionaremos mayores facilidades a los usuarios, haciendo su día 
 ## 1.2. Solution Profile
 
 ### 1.2.1. Antecedentes y problemática
+En muchas regiones del Perú, especialmente en provincias y zonas rurales, los colectivos (autos compartidos que cubren rutas fijas entre pueblos o distritos) representan un medio de transporte esencial. Estas unidades operan de forma semi-informal, sin horarios estrictos ni plataformas digitales que informen sobre sus rutas, tarifas o paraderos.
 
+A pesar de su utilidad, la informalidad del servicio genera desinformación, falta de confianza y dificultad para planificar los viajes, especialmente para personas no familiarizadas con la zona. Es común que los pasajeros deban preguntar a transeúntes o esperar en puntos conocidos sin certeza del tiempo de espera o del costo del servicio.
+
+Por otro lado, los conductores de colectivos enfrentan problemas para captar nuevos pasajeros, organizar eficientemente sus recorridos y diferenciarse en un mercado competitivo e informal. Esta situación genera ineficiencias tanto para usuarios como para operadores del servicio.
+
+En este contexto, surge la necesidad de una solución digital accesible que brinde visibilidad, organización y confianza al sistema informal de colectivos interurbanos, sin perder su flexibilidad, adaptándose a la realidad tecnológica y cultural de estas zonas.
+
+La problemática se puede resumir en los siguientes puntos:
+
+1. **Desinformación sobre rutas y paraderos**  
+   Los pasajeros no tienen acceso a información clara sobre las rutas disponibles, ubicación de los paraderos, horarios aproximados o tarifas. Esta falta de visibilidad dificulta la planificación del viaje y desalienta el uso del servicio, especialmente entre personas que no conocen la zona o viajan por primera vez.
+
+2. **Dependencia de canales informales**  
+   En ausencia de señalización oficial o plataformas digitales, los usuarios deben confiar en el “boca a boca” o el conocimiento local para encontrar un colectivo. Esto limita el acceso al servicio y excluye a quienes no dominan estas redes informales, como turistas, personas mayores o nuevos residentes.
+
+3. **Falta de herramientas para conductores**  
+   Los conductores operan sin apoyo tecnológico para anunciar su disponibilidad, comunicar sus rutas o gestionar sus viajes. Esto reduce su eficiencia, genera tiempos muertos y limita su capacidad para captar más pasajeros.
+
+4. **Baja percepción de seguridad**  
+   La falta de perfiles visibles y verificables de los conductores, así como la ausencia de información sobre los vehículos y las rutas, genera desconfianza. Esto impacta directamente en la decisión de uso del servicio, especialmente entre mujeres o personas en situación vulnerable.
+
+5. **Barreras tecnológicas en la adopción digital**  
+   Muchos usuarios potenciales viven en zonas con conectividad limitada o tienen baja familiaridad con el uso de aplicaciones móviles. Las plataformas de transporte tradicionales no están diseñadas para este público, al requerir registros complejos, conexión permanente o interfaces poco intuitivas.
+
+6. **Ausencia en el ecosistema de movilidad regional**  
+   Al ser un sistema informal, los colectivos no están integrados en los planes de movilidad ni reciben soporte institucional. Esto contribuye a su invisibilidad como alternativa de transporte sostenible y eficiente en provincias del país.
 
 ### 1.2.2. Lean UX Process
 
@@ -120,6 +146,8 @@ Creemos que aumentar la confianza de los usuarios y su retención en la app se l
 Creemos que aumentar la accesibilidad de la app y alcanzar a más usuarios en zonas con baja alfabetización digital se logrará si los pasajeros ocasionales obtienen acceso rápido y sin fricciones a la información de viaje con una interfaz sencilla que no requiera registro obligatorio.
 
 #### 1.2.2.4. Lean UX Canvas
+
+![Lean UX Canvas](resources/chapter-1/lean-ux-canvas.jpg)
 
 ## 1.3. Segmentos objetivo
 
