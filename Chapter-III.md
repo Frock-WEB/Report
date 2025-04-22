@@ -31,17 +31,17 @@
 ## 3.3 Impact Mapping
 ## 3.4 Product backlog
 
-| #Orden |   ID   | User Story                          | Story Points |
-|:------|:------|:-----------------------------------|:-------------|
-| 01    | US-01 | Ver información del sistema          | 2            |
-| 02    | US-02 | Formulario de contacto               | 3            |
-| 03    | US-03 | Diseño adaptable (responsive)       | 5            |
-| 04    | US-04 | Botón de acceso a plataforma         | 1            |
-| 05    | US-05 | Inicio de sesión                     | 5            |
-| 06    | US-06 | Registrar nuevo pedido               | 8            |
-| 07    | US-07 | Consultar estado del pedido         | 5            |
-| 08    | US-08 | Confirmar entrega del pedido        | 3            |
-| 09    | US-09 | Ver pedidos pendientes               | 3            |
-| 10    | US-10 | Aprobar o rechazar pedido            | 5            |
-| 11    | US-11 | Marcar pedido como despachado        | 3            |
-| 12    | US-12 | Cerrar pedido                        | 2            |
+| #Orden |   ID   | User Story                                            | Story Points |
+|:------|:------|:-----------------------------------------------------|:-------------|
+| 01    | US-01 | Ver información sobre la plataforma de transporte    | 3            |
+| 02    | US-02 | Consultar rutas disponibles                          | 5            |
+| 03    | US-03 | Ver horarios de colectivos en cada ruta               | 5            |
+| 04    | US-04 | Acceder a información sobre paraderos cercanos       | 4            |
+| 05    | US-05 | Filtrar rutas por ubicación o destino                 | 6            |
+| 06    | US-06 | Ver detalles de un colectivo en una ruta específica  | 4            |
+| 07    | US-07 | Crear y editar perfil de conductor                    | 6            |
+| 08    | US-08 | Ver historial de rutas recorridas por un colectivo    | 5            |
+| 09    | US-09 | Hacer una búsqueda de colectivos cercanos a mi ubicación | 6          |
+| 10    | US-10 | Enviar notificación sobre cambios en las rutas       | 4            |
+| 11    | US-11 | Calificar la experiencia con un colectivo            | 3            |
+| 12    | US-12 | Reportar un problema con un colectivo o ruta         | 5            |
