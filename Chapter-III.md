@@ -30,3 +30,18 @@
 
 ## 3.3 Impact Mapping
 ## 3.4 Product backlog
+
+| #Orden |   ID   | User Story                          | Story Points |
+|:------|:------|:-----------------------------------|:-------------|
+| 01    | US-01 | Ver información del sistema          | 2            |
+| 02    | US-02 | Formulario de contacto               | 3            |
+| 03    | US-03 | Diseño adaptable (responsive)       | 5            |
+| 04    | US-04 | Botón de acceso a plataforma         | 1            |
+| 05    | US-05 | Inicio de sesión                     | 5            |
+| 06    | US-06 | Registrar nuevo pedido               | 8            |
+| 07    | US-07 | Consultar estado del pedido         | 5            |
+| 08    | US-08 | Confirmar entrega del pedido        | 3            |
+| 09    | US-09 | Ver pedidos pendientes               | 3            |
+| 10    | US-10 | Aprobar o rechazar pedido            | 5            |
+| 11    | US-11 | Marcar pedido como despachado        | 3            |
+| 12    | US-12 | Cerrar pedido                        | 2            |
