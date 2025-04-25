@@ -92,6 +92,13 @@ Para enfrentar el entorno competitivo, **Frock** adoptará estrategias diferenci
 #### 2.2.3. Análisis de entrevistas
 ## 2.3. Needfinding
 #### 2.3.1. User Personas
+
+**Segmento 1:**
+Jesús Ramírez representa al segmento de pasajeros frecuentes de rutas interurbanas informales (pueblo a pueblo), en especial trabajadores independientes o técnicos que se movilizan por necesidad laboral entre zonas periféricas.
+
+![Jesus Ramirez](https://github.com/user-attachments/assets/902e107e-b2d3-44d3-bbcf-22253879e1d7)
+
+
 #### 2.3.2. User Task Matrix
 #### 2.3.3. User Journey Mapping
 | Etapa                   | Emoción        | Diálogo                                                                                           | Descubrimiento e instalación                                | Exploración de funciones                                                                | Uso de funciones clave                                                               | Interacción en tiempo real                                                                   | Después del viaje                                     |
