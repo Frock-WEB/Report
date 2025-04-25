@@ -88,10 +88,10 @@
 
 ### 2.3.4. Empathy Mapping
 
-#### *Usuarios que usan colectivos*
+#### *Segmento Objetivo 1: Usuarios que usan colectivos*
 <img src="assets/Empathy4.png" style="width: 1000px">
 
-#### *Conductores de colectivos*
+#### *Segmento Objetivo 2:Conductores de colectivos*
 <img src="assets/Empathy3.png" style="width: 1000px">
 
 #### 2.3.5. As-is Scenario Mapping
