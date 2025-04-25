@@ -98,6 +98,10 @@ Jesús Ramírez representa al segmento de pasajeros frecuentes de rutas interurb
 
 ![Jesus Ramirez](https://github.com/user-attachments/assets/902e107e-b2d3-44d3-bbcf-22253879e1d7)
 
+**Segmento 2:**
+Elmer representa al segmento de conductores de colectivos interurbanos, es decir, operadores informales que prestan servicio de transporte compartido entre pueblos, distritos y zonas periféricas, fuera del sistema de transporte formal.
+
+![Elmer Huamán](https://github.com/user-attachments/assets/d3f75053-5301-4229-8c7e-b5d6714284a8)
 
 #### 2.3.2. User Task Matrix
 #### 2.3.3. User Journey Mapping
