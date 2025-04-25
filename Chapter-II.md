@@ -86,7 +86,14 @@
 | Experiencia de Servicio| Satisfacción   | “¡Llegué cómodo, a tiempo y sin complicaciones!”                                                  | Recibe notificaciones automáticas para salir a tiempo.      | Consulta de nuevo la app para confirmar detalles del viaje.                             | Aborda el colectivo.                                                                 | Verifica asiento asignado                                                                    | Finaliza el viaje y recibe agradecimiento automático. |
 | Post-servicio          | Apreciación    | “Voy a recomendar esta app. Me ahorró tiempo y fue súper clara.”                                  | Recibe mensaje de cierre del viaje con resumen.             | Visualiza estadísticas personales de uso (viajes, ahorro de tiempo, etc.).              | Recibe invitación para calificar el servicio.                                        | -                                                                                            | Deja una reseña y activa alertas para futuros viajes. |
 
-#### 2.3.4. Empathy Mapping
+### 2.3.4. Empathy Mapping
+
+#### *Usuarios que usan colectivos*
+<img src="assets/Empathy4.png" style="width: 1000px">
+
+#### *Conductores de colectivos*
+<img src="assets/Empathy3.png" style="width: 1000px">
+
 #### 2.3.5. As-is Scenario Mapping
 ## 2.4. Ubiquitous Language
 El lenguaje ubicuo es una parte fundamental de la estrategia de UX. Se refiere al conjunto de términos y frases que, aunque no pertenecen al contexto técnico del desarrollo, se utilizan para expresar la lógica del negocio. Esto permite que todos los involucrados en el proyecto, incluidos los usuarios finales, puedan entender y participar mejor en el desarrollo del producto.
