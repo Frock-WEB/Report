@@ -29,6 +29,11 @@
 | US10          | Ver calificaciones de pasajeros     | Como conductor, quiero ver las calificaciones que me han dejado los pasajeros para mejorar mi servicio. | **Escenario 1: Calificaciones visibles**<br/>Dado que tengo calificaciones registradas,<br/>Cuando ingreso a la sección “Mi reputación”,<br/>Entonces debo poder ver un promedio y comentarios recibidos.<br/><br/>**Escenario 2: Sin calificaciones aún**<br/>Dado que aún no he sido calificado,<br/>Cuando ingreso a esa sección,<br/>Entonces debo ver un mensaje que me indique que aún no tengo calificaciones disponibles.<br/><br/> |
 
 ## 3.3 Impact Mapping
+
+**Segmento 1 y segmento 2:**
+
+![Project management tool impact map](https://github.com/user-attachments/assets/3fcfb811-2771-41c6-ac68-090d700dad36)
+
 ## 3.4 Product backlog
 
 | #Orden |   ID   | User Story                                            | Story Points |
