@@ -104,6 +104,22 @@ Elmer representa al segmento de conductores de colectivos interurbanos, es decir
 ![Elmer Huamán](https://github.com/user-attachments/assets/d3f75053-5301-4229-8c7e-b5d6714284a8)
 
 #### 2.3.2. User Task Matrix
+
+Los segmentos objetivo representados por los User Personas: Jesús Ramírez (pasajero interurbano) y Elmer Huamán (conductor de colectivo), serán una parte crucial para este 'User Task Matrix'. Las tareas listadas reflejan acciones que los usuarios ya realizan actualmente para alcanzar sus objetivos, independientemente del uso de una aplicación o tecnología. Esta matriz permite identificar oportunidades donde la solución digital de Frock puede generar mayor valor.
+
+
+| **Tarea**                                                  | **User Story ID** | **Jesús Ramírez (Pasajero)** - F | **Jesús Ramírez** - I | **Elmer Huamán (Conductor)** - F | **Elmer Huamán** - I |
+|------------------------------------------------------------|-------------------|-------------------------------|------------------------|-------------------------------|------------------------|
+| Buscar rutas disponibles para llegar a su destino          | US01              | Alta                          | Alta                   | Media                         | Alta                   |
+| Identificar paraderos adecuados para abordar               | US02              | Alta                          | Alta                   | Media                         | Media                  |
+| Ver información del conductor	                             | US03              | Media                         | Alta                   | Media                         | Alta                   |
+| Avisar disponibilidad a pasajeros frecuentes               | US08              | Baja                          | Media                  | Alta                          | Alta                   |
+| Ajustar su horario según los momentos de mayor demanda     | US09              | Baja                          | Media                  | Alta                          | Alta                   |
+| Recordar o registrar los viajes que ha hecho               | US05              | Media                         | Baja                   | Baja                          | Baja                   |
+| Evaluar la experiencia del viaje con un conductor          | US04              | Media                         | Alta                   | Alta                          | Media                  |
+
+> **F = Frecuencia** | **I = Importancia**
+
 #### 2.3.3. User Journey Mapping
 | Etapa                   | Emoción        | Diálogo                                                                                           | Descubrimiento e instalación                                | Exploración de funciones                                                                | Uso de funciones clave                                                               | Interacción en tiempo real                                                                   | Después del viaje                                     |
 |------------------------|----------------|----------------------------------------------------------------------------------------------------|-------------------------------------------------------------|-----------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|-------------------------------------------------------|
