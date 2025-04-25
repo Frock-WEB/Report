@@ -10,7 +10,25 @@
 | **Tecnologías Clave**  | GPS, API de mapas, predicción de llegada, alertas de tráfico.                                                                               | Pasarela de pago, integración con operadores formales.                                                 | Geolocalización, agrupación por rutas y horarios.                                                                    | GPS, interfaz simple y perfiles verificados de conductor, mapeo colaborativo de rutas y paraderos.                                                  |
 | **Debilidades**        | Requiere conectividad constante, enfoque urbano.                                                                                            | No cubre colectivos ni rutas informales.                                                               | Limitado a carpooling urbano, no apto para zonas rurales.                                                             | Depende de la adopción digital en zonas con conectividad limitada; requiere mapeo inicial colaborativo.                                             |
 
-### 2.1.2. Estrategias y tácticas frente a competidores
+### 2.1.2 Estrategias y tácticas frente a competidores
+
+Para enfrentar el entorno competitivo, **Frock** adoptará estrategias diferenciadoras que aprovechen sus ventajas comparativas frente a plataformas como **Moovit**, **RedBus** y **QuickRide**, enfocándose en su conocimiento del contexto rural y periférico peruano y en su cercanía con el transporte colectivo informal.
+
+#### Estrategias
+
+- **Enfoque en nicho no atendido**: Mientras Moovit y RedBus cubren principalmente rutas urbanas y servicios formales, Frock se especializará en zonas desatendidas por el transporte tradicional, ofreciendo visibilidad y organización a un sistema que actualmente opera sin estructura.
+- **Adaptación cultural y tecnológica**: A diferencia de sus competidores internacionales, Frock se desarrollará desde el entendimiento de las costumbres locales, diseñando una interfaz accesible incluso para usuarios con baja alfabetización digital.
+- **Crecimiento mediante alianzas locales**: Frock buscará colaborar con asociaciones de conductores, municipios y comunidades para generar confianza, acceso a información validada y adopción progresiva del servicio.
+- **Iteración constante basada en datos del usuario**: Utilizaremos técnicas Lean UX para validar con rapidez nuevas funcionalidades, priorizando aquellas que resuelvan las necesidades reales de los pasajeros y conductores.
+
+#### Tácticas
+
+- **Mapeo colaborativo de rutas y paraderos**: A través de incentivos a usuarios y conductores, se fomentará la participación ciudadana para alimentar el sistema con datos reales de operación.
+- **Sin necesidad de registro obligatorio**: Reducimos fricciones para nuevos usuarios, permitiendo acceso inmediato a la información básica sobre rutas y paraderos.
+- **Interfaz de bajo consumo y navegación offline**: Considerando la limitada conectividad en algunas zonas, se desarrollará una versión ligera de la aplicación que funcione con funcionalidades clave sin conexión.
+- **Perfiles verificados de conductores**: Se brindará mayor confianza al usuario mostrando información básica validada de los conductores, sin necesidad de formalizarlos completamente en un inicio.
+- **Monitoreo de métricas locales**: Nos enfocaremos en indicadores de adopción por distrito y ruta, para priorizar mejoras específicas por región y escalar de forma controlada.
+
 ## 2.2. Entrevistas
 #### 2.2.1. Diseño de entrevistas
 #### **Preguntas generales**
