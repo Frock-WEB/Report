@@ -24,7 +24,7 @@
 | Yasser Rentería Palacios      | U202214130 |
 | Adrian Valerio García         | U202210334 |
 | Elvia Marcela Rodríguez Villa | U20231C784 |
-|                               |            |
+| Amir Gabriel Castro Sanchez   | U202310680 |
 |                               |            |
 
 <br> ABRIL 2025 
