@@ -41,11 +41,11 @@ Asimismo, proporcionaremos mayores facilidades a los usuarios, haciendo su día 
     <td> Soy Elvia Rodríguez, estudiante universitaria, egresada de Laboratoria y embajadora de Microsoft. Laboro actualmente en el área de datos e inteligencia artificial de Banco Ripley, por lo que tengo conocimientos de las tecnologías de AWS, Big Data y ML.  </td>
   </tr>
 <tr>
-    <th colspan="2"></th>
+    <th colspan="2"> Adrian Emanuel Valerio Garcia</th>
   </tr>
   <tr>
-    <td> <img src="" style="width: 300px"> </td>
-    <td></td>
+    <td> <img src="resources/chapter-1/adrian-pfp.jpg" style="width: 300px"> </td>
+    <td> Mi nombre es Adrián, tengo 20 años y estudio la carrera de Ingeniería de Software. Me considero una persona honesta, responsable, siempre buscando soluciones creativas y fomentando el trabajo en equipo para alcanzar objetivos comunes. Estoy comprometido con mi desarrollo profesional y siempre busco nuevas oportunidades para crecer y aportar a proyectos innovadores. </td>
   </tr>
 </table>
 
