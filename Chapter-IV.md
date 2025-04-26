@@ -17,9 +17,20 @@
 ### 4.4.2. Web Applications Mock-ups.
 ### 4.4.3. Web Applications User Flow Diagrams.
 ## 4.5. Web Applications Prototyping.
+
 ## 4.6. Domain-Driven Software Architecture.
+Los esquemas de contenedores ilustran los distintos componentes del sistema, tales como aplicaciones en línea, bases de datos, microservicios y la forma en que interactúan entre ellos. Estos esquemas ofrecen una perspectiva a nivel superior de la arquitectura del sistema, resaltando las obligaciones de cada contenedor y sus interrelaciones.
+
 ### 4.6.1. Software Architecture Context Diagram.
+El diagrama de contexto del sistema muestra la relación entre el sistema y los actores externos, proporcionando una visión general de la arquitectura del sistema y sus interacciones con el entorno externo.
+
+![Software Architecture Context Diagram](assets/4_6_1.png)
+
 ### 4.6.2. Software Architecture Container Diagrams.
+Los esquemas de contenedores ilustran las distintas partes que conforman el sistema, tales como aplicaciones en línea, bases de datos, microservicios y la forma en que interactúan entre ellos. Estos esquemas ofrecen una panorámica detallada de la arquitectura del sistema, resaltando las obligaciones de cada contenedor y sus relaciones entre sí.
+
+![Software Architecture Container Diagram](assets/Software-Architecture-Container-Diagrams.png)
+
 ### 4.6.3. Software Architecture Components Diagrams.
 ## 4.7. Software Object-Oriented Design.
 ### 4.7.1. Class Diagrams.
