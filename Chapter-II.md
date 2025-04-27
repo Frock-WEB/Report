@@ -123,8 +123,6 @@ Para enfrentar el entorno competitivo, **Frock** adoptará estrategias diferenci
 - Duración: 00:00:00 
 - Resumen:<br>
     
-    
-
 ---
 
 #### Entrevistado N°4 - Segmento 2
@@ -156,11 +154,11 @@ Para enfrentar el entorno competitivo, **Frock** adoptará estrategias diferenci
 #### Entrevistado N°6 - Segmento 2
 ![entrevista3_segmento2](assets/entrevista-yasser2.jpg) 
 - Nombres: Juan David
-- Apellidos:
+- Apellidos: Linares
 - Edad: 26 años
-- Distrito: 
+- Ciudad: Lima
 - URL Entrevista: 
-- Duración: 00:00:00 
+- Duración: 00:02:30 
 - Resumen:<br>
       Juan es cobrador de bus en la ciudad de Lima y menciona que en su ruta suelen operar entre 20 y 25 colectivos. La organización de salida y llegada se basa en el principio de "quien llega primero sale primero". Señala que la mayoría de los pasajeros llegan sin saber exactamente cuál es el colectivo adecuado para su destino, lo que genera cierto desorden y confusión.
 
