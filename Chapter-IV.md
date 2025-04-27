@@ -1,6 +1,7 @@
 # Capítulo IV: Product Design
 ## 4.1. Style Guidelines.
-  En 
+  
+En 
   esta sección, el equipo establece un repositorio organizado y central de elementos comunes (assets, fonts, colores, iconografía) para mantener una presentación visual consistente y enfocada, alineada con el espíritu de **Chapa tu Ruta**: dinámico, confiable y cercano a la cultura popular peruana.
 ### 4.1.1. General Style Guidelines.
 #### Branding
@@ -179,10 +180,25 @@ Autocompletado al escribir nombres de paraderos o rutas.
 ## 4.3. Landing Page UI Design.
 ### 4.3.1. Landing Page Wireframe.
 
+![wireframe (1).png](resources%2Fchapter-4%2Flanding%2Fwireframe%20%281%29.png)
+
 ### 4.3.2. Landing Page Mock-up.
 
+![mockup.png](resources%2Fchapter-4%2Flanding%2Fmockup.png)
+
 ## 4.4. Web Applications UX/UI Design.
+
 ### 4.4.1. Web Applications Wireframes.
+
+![registro.png](resources%2Fchapter-4%2Fwireframes%2Fregistro.png)
+
+![ruta.png](resources%2Fchapter-4%2Fwireframes%2Fruta.png)
+
+![perfil.png](resources%2Fchapter-4%2Fwireframes%2Fperfil.png)
+
+![home.png](resources%2Fchapter-4%2Fwireframes%2Fhome.png)
+
+![descripcion.png](resources%2Fchapter-4%2Fwireframes%2Fdescripcion.png)
 
 ### 4.4.2. Web Applications Wireflow Diagrams.
 
