@@ -88,7 +88,7 @@ Para enfrentar el entorno competitivo, **Frock** adoptará estrategias diferenci
 
 #### 2.2.2. Registro de entrevistas
 #### Entrevista N°1 – Segmento 1
-![entrevista_segmento1](img/entrevista-adrian.jpg) 
+![entrevista_segmento1](assets/entrevista-adrian.jpg) 
 - Nombres: Juan
 - Apellidos: Pescoran
 - Edad: 19 años
@@ -101,7 +101,7 @@ Para enfrentar el entorno competitivo, **Frock** adoptará estrategias diferenci
 ---
 
 #### Entrevistado N°2 - Segmento 1
-![entrevista2_segmento1](img/entrevista-elvia.jpg) 
+![entrevista2_segmento1](assets/entrevista-elvia.jpg) 
 - Nombre: Juan diego
 - Apellidos: Saiten
 - Edad: 21 años
@@ -114,7 +114,7 @@ Para enfrentar el entorno competitivo, **Frock** adoptará estrategias diferenci
 ---
 
 #### Entrevistado N°3 - Segmento 1
-![entrevista3_segmento1](img/entrevista5-amir.jpg) 
+![entrevista3_segmento1](assets/entrevista5-amir.jpg) 
 - Nombres: 
 - Apellidos: 
 - Edad: 
@@ -128,7 +128,7 @@ Para enfrentar el entorno competitivo, **Frock** adoptará estrategias diferenci
 ---
 
 #### Entrevistado N°4 - Segmento 2
-![entrevista1_segmento2](img/entrevista-yasser1.jpg) 
+![entrevista1_segmento2](assets/entrevista-yasser1.jpg) 
 - Nombres: Juan Carlos
 - Apellidos: Ramirez
 - Edad: 28 años
@@ -141,7 +141,7 @@ Para enfrentar el entorno competitivo, **Frock** adoptará estrategias diferenci
 ---
 
 #### Entrevistado N°5 - Segmento 2
-![entrevista2_segmento2](img/entrevista-Jesus.jpg) 
+![entrevista2_segmento2](assets/entrevista-Jesus.jpg) 
 - Nombres: Hairo
 - Apellidos: Cadillo
 - Edad: 21 años
@@ -154,7 +154,7 @@ Para enfrentar el entorno competitivo, **Frock** adoptará estrategias diferenci
 ---
 
 #### Entrevistado N°6 - Segmento 2
-![entrevista3_segmento2](img/entrevista-yasser2.jpg) 
+![entrevista3_segmento2](assets/entrevista-yasser2.jpg) 
 - Nombres: Juan David
 - Apellidos:
 - Edad: 26 años
