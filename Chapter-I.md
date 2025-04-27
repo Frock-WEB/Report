@@ -23,15 +23,15 @@ Asimismo, proporcionaremos mayores facilidades a los usuarios, haciendo su día 
     <th colspan="2"> </th>
   </tr>
   <tr>
-    <td> <img src="" style="width: 300px"> </td>
+    <td> <img src="resources/chapter-1/amir-pfp.jpg" style="width: 300px"> </td>
     <td>  </td>
   </tr>
 <tr>
-    <th colspan="2">  </th>
+    <th colspan="2"> Amir Gabriel Castro Sanchez </th>
   </tr>
   <tr>
     <td> <img src="" style="width: 300px"> </td>
-    <td>  </td>
+    <td> Hola, me llamo Amir Castro, estudiante universitario de la UPC de la carrera de Ingeniería de Software, apoyaré y colaborare en este trabajo grupal, siempre intento ser un poco mejor cada día y espero llegar muy lejos. En cuanto a mis conocimientos, siempre estoy en constante aprendizaje y reforzarmiento de lo que ya conozco. </td>
   </tr>
 <tr>
     <th colspan="2"> Elvia Marcela Rodríguez Villa </th>
