@@ -23,7 +23,7 @@ Asimismo, proporcionaremos mayores facilidades a los usuarios, haciendo su día 
     <th colspan="2">Jesús Castillo Vidal</th>
   </tr>
   <tr>
-    <td> <img src="" width=300px > </td>
+    <td> <img src="resources/chapter-1/jesus_castillo_foto.png" style="width=300px" > </td>
     <td>Actualmente estudiante de la carrera de Ingeniería de Software. Me gusta mucho explorar mi creatividad, los temas de desarrollo de producto, creación de startUps, son los que me llaman mucho la atención en el mundo de la tecnología. Programar para mí es un arte, siento que cada día lo voy perfeccionando poco a poco. La gran satisfacción la obtengo cuando logro poder resolver problemas del mundo que puedan ayudar a personas. Tengo vocación por enseñar, constantemente me estoy retando para mejorar y seguir ofreciendo valor a la comunidad durante mi existencia.</td>
   </tr>
 <tr>
