@@ -501,6 +501,22 @@ Para el primer sprint el equipo establecio que el desarrollo de las tareas seria
 
 
 #### 5.2.1.3. Sprint Backlog 1.
+
+| Sprint # | Sprint 1 |
+|----------|----------|
+
+| User Story | | Work-Item / Task | | | | |
+|------------|--------------------|----------------|----------------|------------------|------------------|----------------|
+| Id | Title | Id | Title | Description | Estimation (Hours) | Assigned To | Status (To-do / In-Process / To-Review / Done) |
+|----|-------|----|------|-------------|--------------------|-------------|----------------------------------------------|
+| US03 |Ver información del conductor | T01 | Implementar sección para ver la información del conductor | Diseñar y creas la estructura para ver la información del conductor. | 4 | Rodriguez Villa, Elvia | In-Progress |
+| US02 | Ver paraderos en el mapa | T02 | Implementar visualización de paraderos | Crear vista de mapa e integrar paraderos cercanos usando la ubicación del usuario. | 8 | Rentería Palacios, Yasser | In-Progress  |
+| US12 | Consultar cómo funciona el servicio | T03 | Crear sección "Cómo funciona" | Desarrollar la sección explicativa en la Landing Page. | 5 | Valerio Garcia, Adrián Emanuel | Done |
+| US13 | Conocer las ventajas del servicio | T04 | Crear sección "Ventajas" | Diseñar y codificar la sección que muestra los beneficios de la plataforma. | 4 | Castillo Vidal, Jesús Iván | Done |
+| US14 | Acceder a preguntas frecuentes (FAQ) | T05 | Implementar sección FAQ | Crear y estructurar las preguntas frecuentes en la Landing Page. | 4 | Castro Sanchez, Amir Gabriel | Done |
+
+
+
 #### 5.2.1.4. Development Evidence for Sprint Review.
 #### 5.2.1.5. Execution Evidence for Sprint Review.
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
