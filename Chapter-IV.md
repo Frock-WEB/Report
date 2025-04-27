@@ -32,6 +32,26 @@ Los esquemas de contenedores ilustran las distintas partes que conforman el sist
 ![Software Architecture Container Diagram](assets/Software-Architecture-Container-Diagrams.png)
 
 ### 4.6.3. Software Architecture Components Diagrams.
+En esta sección, se presentan los diagramas de componentes de la arquitectura de software. Estos diagramas detallan los diferentes componentes que conforman el sistema, sus responsabilidades y cómo interactúan entre sí.
+
+#### Bounded Context: Analytics
+
+![Analytics](img/BoundedContext_Analytics.png)
+
+Este bounded context contiene todo lo relacionado al monitoreo y seguimientos de los colectivos, asi como los reportes de estos.
+
+#### Bounded Context: Control
+
+![Control](assets/BoundedContext_Control.png)
+
+Este bounded context separa todo lo relacionado con el control de rutas de los colectivos para los usuarios, por lo que las rutas de los colectivos esta incluido en este bounded context.
+
+#### Bounded Context: Planning
+
+![Planning](assets/BoundedContext_Planning.png)
+
+Este bounded context sirve para alojar el feature de paraderos existente en nuestra plataforma, este feature requiere de muchas entidades tales como ubicación, horarios, capacidad y estado.
+
 ## 4.7. Software Object-Oriented Design.
 ### 4.7.1. Class Diagrams.
 ### 4.7.2. Class Dictionary.
