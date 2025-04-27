@@ -93,7 +93,7 @@ Para enfrentar el entorno competitivo, **Frock** adoptará estrategias diferenci
 - Apellidos: Pescoran
 - Edad: 19 años
 - Ciudad: Trujillo 
-- URL Entrevista: 
+- URL Entrevista: https://tinyurl.com/EntrevistasFROCK-WEB
 - Duración: 00:08:46 minutos 
 - Resumen:<br>
     Juan, un estudiante universitario de 19 años, comentó que en su experiencia los "jaladores" de colectivos suelen brindar información incorrecta sobre las rutas, lo que genera confusión. Actualmente, su método para abordar un colectivo consiste en preguntar directamente al conductor sobre el recorrido. Además, considera que sería muy útil poder planificar su viaje antes de salir, especialmente porque en Trujillo no existen paraderos formales. Finalmente, destacó que valoraría mucho un sistema confiable que le permita identificar qué colectivos lo pueden llevar a su destino de manera precisa.
@@ -106,7 +106,7 @@ Para enfrentar el entorno competitivo, **Frock** adoptará estrategias diferenci
 - Apellidos: Saiten
 - Edad: 21 años
 - Distrito: San Miguel
-- URL Entrevista: 
+- URL Entrevista: https://tinyurl.com/EntrevistasFROCK-WEB
 - Duración: 00:05:44 minutos 
 - Resumen:<br>
    Juan Diego considera que el transporte público es una forma eficiente y económica de llegar a su destino. Sin embargo, comenta que en horas punta suele experimentar incertidumbre, ya que los conductores de colectivos a veces permanecen hasta 15 minutos esperando en un paradero antes de salir. Por ello, le gustaría contar con una aplicación que le permita visualizar su ruta de viaje y planificar mejor sus traslados.
@@ -119,7 +119,7 @@ Para enfrentar el entorno competitivo, **Frock** adoptará estrategias diferenci
 - Apellidos: Lindo
 - Edad: 19 años
 - Ciudad: Lima
-- URL Entrevista: 
+- URL Entrevista: https://tinyurl.com/EntrevistasFROCK-WEB
 - Duración: 00:04:39
 - Resumen:<br>
     Samy prefiere los colectivos por ser más rápidos que los taxis, aunque las paradas frecuentes pueden causar demoras. A menudo pierde tiempo por no tener información precisa sobre los paraderos. Para conocer rutas, pregunta a conocidos o consulta redes sociales, pero a veces la información es desactualizada. Cree que una app como Chapa Toruta sería útil para ver paraderos, rutas, precios y tiempos de espera en tiempo real, y sugiere incluir detalles como placas de los vehículos para mayor confianza.
@@ -131,7 +131,7 @@ Para enfrentar el entorno competitivo, **Frock** adoptará estrategias diferenci
 - Apellidos: Ramirez
 - Edad: 28 años
 - Ciudad: Lima 
-- URL Entrevista: 
+- URL Entrevista: https://tinyurl.com/EntrevistasFROCK-WEB
 - Duración: 00:02:44
 - Resumen:<br>
     Juan Carlos, conductor de transporte público, explicó que tiene un turno establecido para el despliegue de sus vehículos, pero que la cantidad de personas también es un factor determinante para iniciar el recorrido. Para coordinar sus salidas, utiliza principalmente WhatsApp. Mencionó que sería de gran utilidad contar con una herramienta que permita a las personas conocer dónde encontrar las rutas disponibles, siempre y cuando la plataforma sea fácil de usar.
@@ -144,7 +144,7 @@ Para enfrentar el entorno competitivo, **Frock** adoptará estrategias diferenci
 - Apellidos: Cadillo
 - Edad: 21 años
 - Ciudad: Huaral 
-- URL Entrevista: 
+- URL Entrevista: https://tinyurl.com/EntrevistasFROCK-WEB
 - Duración: 00:10:54
 - Resumen:<br>
     Hairo trabaja como administrador de rutas de vehículos menores en transporte interprovincial y zonas céntricas. Su función principal es planificar los tiempos de salida de los vehículos, aunque menciona que estos tiempos a menudo dependen de si las unidades están llenas o no. Desde su experiencia, considera que sería útil y rentable que los paraderos que administra estén integrados dentro de una plataforma digital, lo que permitiría mejorar la organización y la visibilidad del servicio.
@@ -157,7 +157,7 @@ Para enfrentar el entorno competitivo, **Frock** adoptará estrategias diferenci
 - Apellidos: Linares
 - Edad: 26 años
 - Ciudad: Lima
-- URL Entrevista: 
+- URL Entrevista: https://tinyurl.com/EntrevistasFROCK-WEB
 - Duración: 00:02:30 
 - Resumen:<br>
       Juan es cobrador de bus en la ciudad de Lima y menciona que en su ruta suelen operar entre 20 y 25 colectivos. La organización de salida y llegada se basa en el principio de "quien llega primero sale primero". Señala que la mayoría de los pasajeros llegan sin saber exactamente cuál es el colectivo adecuado para su destino, lo que genera cierto desorden y confusión.
