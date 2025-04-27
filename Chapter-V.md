@@ -623,7 +623,7 @@ Web Application Prototyting: https://www.figma.com/design/2mFdwB7QtPM3EPD7y3YD4I
 
 ### Anexo C. Github Repositories
 
-Link de la Organización DotVue: https://github.com/Dotvue
+Link de la Organización FROCK: https://github.com/Frock-WEB
 
 | Repositorios                  | Enlace al Respositorio                                  |
 |-------------------------------|---------------------------------------------------------|
