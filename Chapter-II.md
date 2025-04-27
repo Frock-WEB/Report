@@ -87,8 +87,84 @@ Para enfrentar el entorno competitivo, **Frock** adoptará estrategias diferenci
 - ¿Te interesaría aparecer como “empresa recomendada”?
 
 #### 2.2.2. Registro de entrevistas
-| **Nombre** | **Fecha** | **Duración** | **Tipo** | **Notas**|
-|------------|-----------|--------------|----------|----------|
+#### Entrevista N°1 – Segmento 1
+![entrevista_segmento1](img/entrevista-adrian.jpg) 
+- Nombres: Juan
+- Apellidos: Pescoran
+- Edad: 19 años
+- Ciudad: Trujillo 
+- URL Entrevista: 
+- Duración: 00:08:46 minutos - minuto de inicio: 00:00:00
+- Resumen:<br>
+    Juan, un estudiante universitario de 19 años, comentó que en su experiencia los "jaladores" de colectivos suelen brindar información incorrecta sobre las rutas, lo que genera confusión. Actualmente, su método para abordar un colectivo consiste en preguntar directamente al conductor sobre el recorrido. Además, considera que sería muy útil poder planificar su viaje antes de salir, especialmente porque en Trujillo no existen paraderos formales. Finalmente, destacó que valoraría mucho un sistema confiable que le permita identificar qué colectivos lo pueden llevar a su destino de manera precisa.
+
+---
+
+#### Entrevistado N°2 - Segmento 1
+![entrevista2_segmento1](img/entrevista-elvia.jpg) 
+- Nombre: Juan diego
+- Apellidos: Saiten
+- Edad: 21 años
+- Distrito: San Miguel
+- URL Entrevista: 
+- Duración: 00:05:44 minutos - minuto de inicio: 00:08:47
+- Resumen:<br>
+   Juan Diego considera que el transporte público es una forma eficiente y económica de llegar a su destino. Sin embargo, comenta que en horas punta suele experimentar incertidumbre, ya que los conductores de colectivos a veces permanecen hasta 15 minutos esperando en un paradero antes de salir. Por ello, le gustaría contar con una aplicación que le permita visualizar su ruta de viaje y planificar mejor sus traslados.
+  
+---
+
+#### Entrevistado N°3 - Segmento 1
+![entrevista3_segmento1](img/entrevista5-yasser1.jpg) 
+- Nombres: 
+- Apellidos: 
+- Edad: 
+- Distrito: 
+- URL Entrevista: 
+- Duración: 00:00:00 - minuto de inicio: 00:00:00
+- Resumen:<br>
+    
+    
+
+---
+
+#### Entrevistado N°4 - Segmento 2
+![entrevista1_segmento2](img/entrevista-amir.jpg) 
+- Nombres: 
+- Apellidos: 
+- Edad: 
+- Distrito: 
+- URL Entrevista: 
+- Duración: 00:00:00 - minuto de inicio: 00:00:00
+- Resumen:<br>
+    
+
+---
+
+#### Entrevistado N°5 - Segmento 2
+![entrevista2_segmento2](img/entrevista-Jesus.jpg) 
+- Nombres: Hairo
+- Apellidos: Cadillo
+- Edad: 21 años
+- Ciudad: Huaral 
+- URL Entrevista: 
+- Duración: 00:10:54- minuto de inicio: 00:00:00
+- Resumen:<br>
+    Hairo trabaja como administrador de rutas de vehículos menores en transporte interprovincial y zonas céntricas. Su función principal es planificar los tiempos de salida de los vehículos, aunque menciona que estos tiempos a menudo dependen de si las unidades están llenas o no. Desde su experiencia, considera que sería útil y rentable que los paraderos que administra estén integrados dentro de una plataforma digital, lo que permitiría mejorar la organización y la visibilidad del servicio.
+
+---
+
+#### Entrevistado N°6 - Segmento 2
+![entrevista3_segmento2](img/entrevista-yasser2.jpg) 
+- Nombres: 
+- Apellidos:
+- Edad: 
+- Distrito: 
+- URL Entrevista: 
+- Duración: 00:00:00 - minuto de inicio: 00:00:00
+- Resumen:<br>
+      
+---
+
 #### 2.2.3. Análisis de entrevistas
 ## 2.3. Needfinding
 #### 2.3.1. User Personas
