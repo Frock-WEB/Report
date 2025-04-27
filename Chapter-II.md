@@ -192,7 +192,7 @@ Para enfrentar el entorno competitivo, **Frock** adoptará estrategias diferenci
 
 | Variable | Porcentaje | Observaciones |
 |----------|------------|---------------|
-| Edad entre 20 y 30 años | 100% | Los conductores tienen una edad promedio que varía entre 30 y 50 años. |
+| Edad entre 20 y 30 años | 100% | Los conductores tienen una edad promedio que varía entre 20 y 30 años. |
 | Dependencia de información manual | 100% | Los conductores a menudo reciben indicaciones a través de WhatsApp o llamadas. |
 | Uso limitado de tecnología para gestión de rutas | 66% | Algunos conductores no utilizan aplicaciones para gestionar sus rutas o paraderos. |
 | Coordinación con otros conductores | 100% | La comunicación con otros conductores es clave para la operación diaria. |
