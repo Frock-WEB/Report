@@ -165,6 +165,47 @@ Para enfrentar el entorno competitivo, **Frock** adoptará estrategias diferenci
 ---
 
 #### 2.2.3. Análisis de entrevistas
+#### **SEGMENTO 1: Estudiantes y usuarios del transporte público**
+
+#### **Características objetivas:**
+
+| Variable | Porcentaje | Observaciones |
+|----------|------------|---------------|
+| Edad entre 18 y 25 años | 100% | Todos los entrevistados son jóvenes adultos, generalmente estudiantes. |
+| Utiliza transporte público diariamente | 100% | Todos utilizan colectivos para desplazarse al trabajo o la universidad. |
+| Conocimiento limitado sobre paraderos | 100% | Los usuarios no siempre conocen los paraderos o rutas específicas. |
+| Uso de redes sociales para obtener información | 80% | La mayoría recurre a grupos de Facebook o aplicaciones para saber las rutas. |
+| Conocimiento básico de tecnología | 100% | Los usuarios manejan aplicaciones móviles y redes sociales de manera fluida. |
+
+#### **Características subjetivas:**
+
+| Variable | Porcentaje | Observaciones |
+|----------|------------|---------------|
+| Necesidad de información precisa y actualizada | 100% | Todos los entrevistados mencionaron que la falta de información confiable es un problema recurrente. |
+| Frustración por demoras y falta de claridad | 80% | Muchos se sienten frustrados por la incertidumbre de los tiempos de espera. |
+| Preferencia por una solución digital | 100% | Todos estarían interesados en una aplicación que facilite el acceso a información actualizada. |
+| Valoran la simplicidad y rapidez en las apps | 100% | La mayoría expresó que preferiría una interfaz sencilla y fácil de usar. |
+
+#### **SEGMENTO 2: Lideres de ruta**
+
+#### **Características objetivas:**
+
+| Variable | Porcentaje | Observaciones |
+|----------|------------|---------------|
+| Edad entre 20 y 30 años | 100% | Los conductores tienen una edad promedio que varía entre 30 y 50 años. |
+| Dependencia de información manual | 100% | Los conductores a menudo reciben indicaciones a través de WhatsApp o llamadas. |
+| Uso limitado de tecnología para gestión de rutas | 66% | Algunos conductores no utilizan aplicaciones para gestionar sus rutas o paraderos. |
+| Coordinación con otros conductores | 100% | La comunicación con otros conductores es clave para la operación diaria. |
+
+#### **Características subjetivas:**
+
+| Variable | Porcentaje | Observaciones |
+|----------|------------|---------------|
+| Necesidad de herramientas para optimizar tiempos | 100% | Todos los conductores señalaron que una app que optimice los tiempos de salida sería útil. |
+| Preocupación por la falta de información en tiempo real | 80% | La falta de visibilidad de las rutas disponibles crea incertidumbre. |
+| Interés en mejorar la experiencia del usuario | 100% | Los conductores están interesados en soluciones que beneficien tanto a ellos como a los pasajeros. |
+
+
 ## 2.3. Needfinding
 #### 2.3.1. User Personas
 
