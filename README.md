@@ -61,6 +61,15 @@ TB1: El equipo entero participó en el desarrollo del sistema, asignando las tar
 
 <img src="./assets/Insights.png" alt="collaboration insights sprint1" style="width: 600px"/>
 
+# Student Outcome
+El curso contribuye al cumplimiento del **Student Outcome ABET:ABET – EAC - Student Outcome 5** Criterio: La capacidad de funcionar efectivamente en un equipo cuyos miembros juntos proporcionan liderazgo, crean un entorno de colaboración e inclusivo, establecen objetivos, planifican tareas y cumplen objetivos.
+
+| Criterio Específico | Acciones Realizadas | Conclusiones |
+|---------------------|---------------------|--------------|
+| Trabaja en equipo para proporcionar liderazgo en forma conjunta | **TB1:**<br>**Yasser Rentería Palacios:** Coordinó las reuniones y asignó responsables para los módulos principales.<br>**Adrian Valerio García:** Propuso soluciones técnicas para integrar el diseño UX en el proyecto.<br>**Elvia Marcela Rodríguez Villa:** Apoyó en la distribución de tareas de documentación y control de avances.<br>**Amir Gabriel Castro Sanchez:** Lideró la planificación de la estructura del backend con enfoque de Domain Driven Design.<br>**Jesús Iván Castillo Vidal:** Supervisó el progreso del proyecto y dio retroalimentación continua para mantener el enfoque en los objetivos. | Se logró establecer un liderazgo compartido entre los miembros del equipo, facilitando la coordinación de tareas y la integración de las distintas partes del proyecto. |
+| Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos | **TB1:**<br>**Yasser Rentería Palacios:** Promovió la participación de todos los integrantes en las decisiones importantes.<br>**Adrian Valerio García:** Fomentó un ambiente inclusivo proponiendo dinámicas para considerar todas las opiniones.<br>**Elvia Marcela Rodríguez Villa:** Ayudó a establecer metas semanales claras y realistas.<br>**Amir Gabriel Castro Sanchez:** Planificó y ajustó tareas para respetar los tiempos de entrega.<br>**Jesús Iván Castillo Vidal:** Motivó al equipo a mantener el compromiso hasta la finalización del reporte y la landing page. | Se creó un ambiente de colaboración efectiva e inclusiva, cumpliendo las metas planteadas para cada fase del proyecto, desde el análisis de dominio hasta la entrega del producto final. |
+
+
 ## Table of Contents
 
 - [Registro de Versiones del Informe](#registro-de-versiones-del-informe)
