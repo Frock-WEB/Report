@@ -39,7 +39,7 @@
 | 0.0.1   | 10/04/2025 | All | Desarrollo Capítulo (1)                               |
 | 0.0.2   | 22/04/2025 | All | Desarrollo Capítulo (2)                            |
 | 0.0.3   | 22/04/2025 | Adrián, Yasser, Amir | Desarrollo Capítulo (3)                       |
-| 0.0.4   | 25/04/2025| Adrían, Elvia, Amir    | Desarrollo Capítulo (4)  |
+| 0.0.4   | 25/04/2025| Adrían, Elvia, Amir, Jesús    | Desarrollo Capítulo (4)  |
 | 0.0.5   | 26/04/2025 | Yasser, Amir              | Desarrollo Capítulo (5)                             | 
 
 </center>
