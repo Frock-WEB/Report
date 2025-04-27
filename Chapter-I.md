@@ -37,7 +37,7 @@ Asimismo, proporcionaremos mayores facilidades a los usuarios, haciendo su día 
     <th colspan="2"> Elvia Marcela Rodríguez Villa </th>
   </tr>
   <tr>
-    <td> <img src="resources/chapter-1/elvia-pfp.jpg" style="width: 300px"> </td>
+    <td> <img src="resources/chapter-1/elvia_foto.jpg" style="width: 300px"> </td>
     <td> Soy Elvia Rodríguez, estudiante universitaria, egresada de Laboratoria y embajadora de Microsoft. Laboro actualmente en el área de datos e inteligencia artificial de Banco Ripley, por lo que tengo conocimientos de las tecnologías de AWS, Big Data y ML.  </td>
   </tr>
 <tr>
