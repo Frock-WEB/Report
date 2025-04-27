@@ -274,6 +274,23 @@ Este bounded context sirve para alojar el feature de paraderos existente en nues
 
 ## 4.7. Software Object-Oriented Design.
 ### 4.7.1. Class Diagrams.
+#### Driver Diagram
+
+![driver](assets/driver-diagram.png)
+
+Este diagrama gestiona los datos de los conductores, asegurando que su información esté verificada. Incluye campos para el nombre, número de licencia, y estado de la licencia, además de un campo para verificar si el conductor tiene antecedentes criminales (criminalRecord). También se tiene en cuenta el estado de salud del conductor (healthStatus), asegurando que estén aptos para conducir. La relación con los vehículos asegura que cada conductor esté vinculado a un vehículo específico.
+
+#### Route Diagram
+
+![Route](assets/route-diagram.png)
+
+Este diagrama representa las rutas de los vehículos y las paradas a lo largo de esas rutas. La tabla Route contiene la información de la ruta (origen, destino, distancia), y la tabla Stop asocia cada parada a una ruta específica. Las paradas están vinculadas a sus rutas correspondientes para asegurar que cada vehículo pueda seguir el recorrido adecuado.
+
+#### Monitoring Diagram
+
+![Monitoring](assets/monitoring-diagram.png)
+
+Este diagrama describe la estructura del sistema para monitorear vehículos. Incluye tablas para los vehículos, la fábrica de vehículos, y el servicio de monitoreo de vehículos, que es responsable de gestionar y actualizar el estado de los vehículos. Además, se muestra la relación entre las entidades como los vehículos y la fábrica, y se garantiza que todos los vehículos estén monitoreados correctamente.
 
 ### 4.7.2. Class Dictionary.
 ### 1. Clase Vehicle
