@@ -115,14 +115,14 @@ Para enfrentar el entorno competitivo, **Frock** adoptará estrategias diferenci
 
 #### Entrevistado N°3 - Segmento 1
 ![entrevista3_segmento1](assets/entrevista5-amir.jpg) 
-- Nombres: 
-- Apellidos: 
-- Edad: 
-- Distrito: 
+- Nombres: Sammy
+- Apellidos: Lindo
+- Edad: 19 años
+- Ciudad: Lima
 - URL Entrevista: 
-- Duración: 00:00:00 
+- Duración: 00:04:39
 - Resumen:<br>
-    
+    Samy prefiere los colectivos por ser más rápidos que los taxis, aunque las paradas frecuentes pueden causar demoras. A menudo pierde tiempo por no tener información precisa sobre los paraderos. Para conocer rutas, pregunta a conocidos o consulta redes sociales, pero a veces la información es desactualizada. Cree que una app como Chapa Toruta sería útil para ver paraderos, rutas, precios y tiempos de espera en tiempo real, y sugiere incluir detalles como placas de los vehículos para mayor confianza.
 ---
 
 #### Entrevistado N°4 - Segmento 2
