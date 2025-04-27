@@ -114,7 +114,7 @@ Para enfrentar el entorno competitivo, **Frock** adoptará estrategias diferenci
 ---
 
 #### Entrevistado N°3 - Segmento 1
-![entrevista3_segmento1](assets/entrevista5-amir.jpg) 
+![entrevista3_segmento1](assets/entrevista-amir.jpg) 
 - Nombres: Sammy
 - Apellidos: Lindo
 - Edad: 19 años
