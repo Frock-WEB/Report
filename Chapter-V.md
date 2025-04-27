@@ -404,6 +404,91 @@ La URL del repositorio se ubica en la siguiente sección de cada repositorio en 
 ## 5.2. Landing Page, Services & Applications Implementation.
 ### 5.2.1. Sprint 1
 #### 5.2.1.1. Sprint Planning 1.
+
+En la etapa inicial de nuestro proyecto, decidimos llevar a cabo la implementación del diseño de nuestra Landing Page utilizando WebStorm como el entorno de desarrollo.
+
+Repositorio Github: https://github.com/Frock-WEB/LandingFrock
+#### 5.2.1.1. Sprint  1.
+
+Para el primer sprint el equipo establecio que el desarrollo de las tareas serian unas 20 horas.
+
+<table>
+    <thead>
+        <tr>
+            <th>Sprint #</th>
+            <th>Sprint 1</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td colspan="2"><b>Sprint  Background</b></td>
+        </tr>
+        <tr>
+            <td>Date</td>
+            <td>2025/04/02</td>
+        </tr>
+        <tr>
+            <td>Time</td>
+            <td>10:30 PM</td>
+        </tr>
+        <tr>
+            <td>Location</td>
+            <td>Google meet</td>
+        </tr>
+        <tr>
+            <td>Prepared by</td>
+            <td>Yasser Rentería Palacios</td>
+        </tr>
+        <tr>
+            <td>Atendees (to  meeting)</td>
+            <td>
+                <li>Adrián Emanuel Valerio Garcia</li>
+                <li>Jesús Iván Castillo Vidal</li>
+                <li>Elvia Rodríguez Villa</li>
+                <li>Amir Castro Sanchez</li>
+            </td>
+        </tr>
+        <tr>
+            <td>Sprint 1 Review Summary</td>
+            <td>
+                Este es el primer sprint a realizar por el equipo
+            </td>
+        </tr>
+        <tr>
+            <td>Sprint 1 Retrospective Summary</td>
+            <td>
+                Acuerdo de la implementación de una primera versión del Landing Page  
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2"><b>Sprint Goal & User Stories</b></td>
+        </tr>
+        <tr>
+            <td>Sprint 1 Goal</td>
+            <td style="text-align: justify">
+                <p>
+                Nuestro objetivo en este sprint es desarrollar la primera versión de la Landing Page de ChapaTuRuta, enfocándonos en una estructura que sea visualmente atractiva y fácil de navegar. Utilizando HTML y CSS, crearemos una interfaz responsive que se adapte de manera óptima a dispositivos móviles y de escritorio.
+                </p>
+                <p>
+                Creemos que esta Landing Page ofrecerá una introducción profesional y accesible a AquaEngine, mejorando la experiencia de usuario y estableciendo una base sólida para la intecon el sistema. El éxito de este sprint se confirmará cuando los usuarios puedan explorar la Landing Page de manera fluida en distintos dispositivos, logrando una primera impresión positiva y una navegación sencilla que los motive a explorar más sobre el sistema.
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td>Sprint 1 Velocity</td>
+            <td>
+                8
+            </td>
+        </tr>
+        <tr>
+            <td>Sum of story points</td>
+            <td>
+                8
+            </td>
+        </tr>
+    </tbody>
+</table>
+
 #### 5.2.1.2. Aspect Leaders and Collaborators.
 #### 5.2.1.3. Sprint Backlog 1.
 #### 5.2.1.4. Development Evidence for Sprint Review.
