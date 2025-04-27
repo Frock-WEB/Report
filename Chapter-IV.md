@@ -255,7 +255,127 @@ Este bounded context sirve para alojar el feature de paraderos existente en nues
 
 ## 4.7. Software Object-Oriented Design.
 ### 4.7.1. Class Diagrams.
+
 ### 4.7.2. Class Dictionary.
+### 1. Clase Vehicle
+Esta clase representa un vehículo en el sistema, que podría ser un bus o una minivan en el contexto del sistema de transporte colectivo.
+
+**Atributos:**
+- `id`: Identificador único del vehículo.
+- `ownerId`: Identificador del propietario (conductor o empresa).
+- `status`: Estado actual del vehículo.
+- `lastMaintenance`: Fecha del último mantenimiento.
+
+**Métodos:**
+- `Vehicle(id, ownerId, status, lastMaintenance)`: Constructor para inicializar el vehículo.
+- `updateStatus(newStatus)`: Actualiza el estado del vehículo.
+- `scheduleMaintenance(date)`: Programa el siguiente mantenimiento.
+
+---
+
+### 2. Clase VehicleFactory
+Fábrica para crear vehículos con atributos definidos.
+
+**Métodos:**
+- `createItem(id, ownerId, status, lastMaintenance)`: Crea y devuelve una nueva instancia de Vehicle.
+
+---
+
+### 3. Clase VehicleMonitoringService
+Servicio central para monitorear los vehículos, siguiendo el patrón singleton.
+
+**Atributos:**
+- `instance`: Instancia única del VehicleMonitoringService.
+
+**Métodos:**
+- `getAllVehicles()`: Devuelve una lista de todos los vehículos registrados.
+- `getVehicleById(id)`: Recupera un vehículo por su ID.
+- `addVehicle(vehicle)`: Añade un nuevo vehículo al sistema.
+- `logMaintenance(id, date)`: Registra las acciones de mantenimiento de un vehículo.
+
+---
+
+### 4. Clase Observer
+Define el contrato para observar cambios en el estado de los vehículos.
+
+**Métodos:**
+- `updateStatus(vehicle)`: Actualiza el estado del vehículo cuando ocurre un cambio.
+
+---
+
+### 5. Clase VehicleStatusLogger
+Registra los cambios en el estado de los vehículos (implementa la interfaz Observer).
+
+**Métodos:**
+- `update(vehicle)`: Registra los cambios que ocurren en el vehículo.
+
+---
+
+### 6. Clase Route
+Representa una ruta tomada por los vehículos.
+
+**Atributos:**
+- `id`: Identificador único de la ruta.
+- `origin`: Punto de inicio de la ruta.
+- `destination`: Punto final de la ruta.
+- `distance`: Distancia de la ruta.
+- `estimatedTime`: Tiempo estimado para completar la ruta.
+
+**Métodos:**
+- `addStop(stop)`: Añade una parada a la ruta.
+- `getRouteInfo()`: Devuelve toda la información de la ruta.
+
+---
+
+### 7. Clase Stop
+Representa una parada a lo largo de una ruta.
+
+**Atributos:**
+- `id`: Identificador único de la parada.
+- `location`: Ubicación geográfica de la parada.
+- `routeId`: Identificador de la ruta a la que pertenece la parada.
+
+**Métodos:**
+- `getStopInfo()`: Devuelve información sobre la parada.
+- `isAvailable()`: Verifica si la parada está disponible para que el vehículo llegue.
+
+---
+
+### 8. Clase Order
+Representa un pedido realizado por un cliente.
+
+**Atributos:**
+- `id`: Identificador único del pedido.
+- `customerId`: Cliente que hizo el pedido.
+- `status`: Estado del pedido.
+- `createdDate`: Fecha de creación del pedido.
+
+**Métodos:**
+- `createOrder(customerId, status)`: Crea un nuevo pedido para el cliente.
+
+---
+
+### 9. Clase TransportService
+Gestiona la creación y recuperación de pedidos dentro del sistema.
+
+**Métodos:**
+- `createOrder(customerId, items)`: Crea un nuevo pedido y lo asocia con ítems de servicio (vehículos, paradas).
+- `getOrderById(id)`: Recupera un pedido específico por su ID.
+
+### 10. Clase VehicleMonitoringService
+Servicio central para monitorear los vehículos, siguiendo el patrón singleton.
+
+**Atributos:**
+- `instance`: Instancia única del VehicleMonitoringService (patrón singleton).
+- `vehicles`: Lista de todos los vehículos monitoreados.
+
+**Métodos:**
+- `getAllVehicles()`: Devuelve una lista de todos los vehículos registrados.
+- `getVehicleById(id)`: Recupera un vehículo por su ID.
+- `addVehicle(vehicle)`: Añade un nuevo vehículo al sistema de monitoreo.
+- `updateVehicleStatus(id, status)`: Actualiza el estado de un vehículo específico.
+- `logMaintenance(id, date)`: Registra el mantenimiento realizado en un vehículo.
+
 ## 4.8. Database Design.
 ### 4.8.1. Database Diagram.
 
