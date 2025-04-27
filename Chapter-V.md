@@ -64,7 +64,7 @@ En esta sección se detalla qué medios se utilizaron para el seguimiento de las
 Antes que nada, hay que mencionar que se utilizará GitHub como sistema de control de versiones del informe, landing page, web service y frontend de nuestro proyecto. Para ello se crearon sus respectivos repositorios:
 
 * Url de la organización: [github.com/FROCK](https://github.com/Frock-WEB)
-* Repositorio Landing page: [github.com/Dotvue/FROCK-landing-page]()
+* Repositorio Landing page: [github.com/Dotvue/FROCK-landing-page](https://frock-web.github.io/LandingFrock/)
 
 **GitFlow:**
 
@@ -386,6 +386,21 @@ When ocurre algo diferente
 ```
 
 ### 5.1.4. Software Deployment Configuration.
+
+Dado que hemos mencionado anteriormente, la administración de nuestro código fuente se llevará a cabo mediante GitHub. Además, utilizaremos GitHub Pages para la publicación y despliegue de la página.
+
+En cuanto al desarrollo del landing page, estamos utilizando el repositorio ubicado en el siguiente URL: https://github.com/orgs/Frock-WEB/repositories
+
+![FROCK-Repositories](./assets/Repositorio.png)
+
+Para desplegar la Landing Page de manera local descargamos el zip, o podemos clonar el repositorio con la herramienta git y el comando: 
+
+    git clone + URL repository
+
+La URL del repositorio se ubica en la siguiente sección de cada repositorio en GitHub:
+
+![FROCK-Repository-url](./assets/LandingDeploy.png)
+
 ## 5.2. Landing Page, Services & Applications Implementation.
 ### 5.2.1. Sprint 1
 #### 5.2.1.1. Sprint Planning 1.
