@@ -25,7 +25,7 @@
 | Adrian Valerio García         | U202210334 |
 | Elvia Marcela Rodríguez Villa | U20231C784 |
 | Amir Gabriel Castro Sanchez   | U202310680 |
-|                               |            |
+| Jesús Iván Castillo Vidal     | U202322952 |
 
 <br> ABRIL 2025 
 </center>  
