@@ -554,5 +554,28 @@ Después de finalizar el Sprint 1, hemos logrado implementar algunas de las secc
 ![footer](./assets/Footer.png)
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
+
+En el primer sprint, hemos realizado el diseño, la programación y el despligue de la Landing Page que presentará nuesta apliación web "ChapaTuRuta"
+
+<table> 
+  <tr>
+    <td> <strong>End Point </strong></td>
+    <td align="center"> <strong>Funciones</strong> </td>
+  </tr>
+
+  <tr>
+    <td> https://frock-web.github.io/LandingFrock//</td>
+    <td> Desplegar Landing Page de ChapaTuRuta</td>
+  </tr>
+</table>
+
+
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review.
+
+Para el despliegue de nuestra Landing Page hemos utilizado GitHub Pages. Para hacer esto, hemos trabajado en un repositorio de GitHub donde divimos el trabajo en ramas. En la sección de configuración y Pages, seleccionamos la rama main para desplegar nuestra web. 
+
+**Link de la landing page desplegada:** https://frock-web.github.io/LandingFrock/
+
+![GitHub-Pages](./assets/LandingDeploy.png)
+
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
