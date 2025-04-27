@@ -141,7 +141,7 @@ Para enfrentar el entorno competitivo, **Frock** adoptará estrategias diferenci
 ---
 
 #### Entrevistado N°5 - Segmento 2
-![entrevista2_segmento2](assets/entrevista-Jesus.jpg) 
+![entrevista2_segmento2](assets/entrevista-jesus.jpg) 
 - Nombres: Hairo
 - Apellidos: Cadillo
 - Edad: 21 años
