@@ -470,7 +470,7 @@ Para el primer sprint el equipo establecio que el desarrollo de las tareas seria
                 Nuestro objetivo en este sprint es desarrollar la primera versión de la Landing Page de ChapaTuRuta, enfocándonos en una estructura que sea visualmente atractiva y fácil de navegar. Utilizando HTML y CSS, crearemos una interfaz responsive que se adapte de manera óptima a dispositivos móviles y de escritorio.
                 </p>
                 <p>
-                Creemos que esta Landing Page ofrecerá una introducción profesional y accesible a AquaEngine, mejorando la experiencia de usuario y estableciendo una base sólida para la intecon el sistema. El éxito de este sprint se confirmará cuando los usuarios puedan explorar la Landing Page de manera fluida en distintos dispositivos, logrando una primera impresión positiva y una navegación sencilla que los motive a explorar más sobre el sistema.
+                Creemos que esta Landing Page ofrecerá una introducción profesional y accesible a ChapaTuRuta, mejorando la experiencia de usuario y estableciendo una base sólida para la intecon el sistema. El éxito de este sprint se confirmará cuando los usuarios puedan explorar la Landing Page de manera fluida en distintos dispositivos, logrando una primera impresión positiva y una navegación sencilla que los motive a explorar más sobre el sistema.
                 </p>
             </td>
         </tr>
