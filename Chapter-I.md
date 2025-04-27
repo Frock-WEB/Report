@@ -13,11 +13,11 @@ Asimismo, proporcionaremos mayores facilidades a los usuarios, haciendo su día 
 
 <table>
   <tr>
-    <th colspan="2"> </th>
+    <th colspan="2"> Yasser Renteria Palacios </th>
   </tr>
   <tr>
-    <td> <img src="" width=300px > </td>
-    <td>  </td>
+    <td> <img src="./assets/Yass.jpg" width=300px > </td>
+    <td>Estudio en la carrera de Ingeniería de Software en la UPC. Tengo conocimientos en C++, Python, Angular, Vue, C#, Unity, Soy una persona que ama la tecnología y crecí en un ambiente de pura tecnología y videojuegos desde pequeño. Siempre he deseado con desarollar mi propio videojuegos. Considero que la comunicación y el aprendizaje constante son las claves que me permitirán progresar en el estudio y el trabajo en equipo.  </td>
   </tr>
   <tr>
     <th colspan="2"> </th>
