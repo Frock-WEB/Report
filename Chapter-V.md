@@ -515,8 +515,6 @@ Para el primer sprint el equipo establecio que el desarrollo de las tareas seria
 | US13 | Conocer las ventajas del servicio | T04 | Crear sección "Ventajas" | Diseñar y codificar la sección que muestra los beneficios de la plataforma. | 4 | Castillo Vidal, Jesús Iván | Done |
 | US14 | Acceder a preguntas frecuentes (FAQ) | T05 | Implementar sección FAQ | Crear y estructurar las preguntas frecuentes en la Landing Page. | 4 | Castro Sanchez, Amir Gabriel | Done |
 
-
-
 #### 5.2.1.4. Development Evidence for Sprint Review.
 
 ## Avances de Implementación
@@ -533,6 +531,28 @@ En esta sección se explica y presenta los avances en implementación con relaci
 | Report       | main  | ee894fa   | Initial commit | Commit inicial del repositorio Report. | 01/04/25 |
 
 #### 5.2.1.5. Execution Evidence for Sprint Review.
+
+Durante este sprint 1 el equipo se enfocó en el desarrollo de la lading page por lo cual no se requirio pruebas de testing.
+
+#### 5.2.1.5. Execution Evidence for Sprint Review.
+
+Después de finalizar el Sprint 1, hemos logrado implementar algunas de las secciones de nuestra Landing Page, aunque con algunos desperfectos en cuanto a diseño. A continuación, te invitamos a explorar nuestros avances a través de imágenes que muestran el resultado obtenido.
+
+*Seccion de navegacion* : Nos ayudara a redirigirnos a secciones especificas de la lading page y Banner que contendra un boton (Call to Action) que te llevara a registrarte a nuestra aplicación.
+![hero](./assets/Navegación.png)
+
+*Funcionality*: Seccion donde los visitantes de la lading page podrán ver como es que funciona nuestra aplicacion y que les ofrece.
+![funcionality](./assets/Funcionalidad.png)
+
+*Ventajas*: sección de las ventajas para nuestro usuarios
+![form](./assets/Ventajas.png)
+
+*Preguntas y Respuestas*: sección de preguntas y respuestas
+![form](./assets/Preguntas.png)
+
+*footer*: contenido extra, como telefono,correo y redes para que puedan comunicarse con la empresa devinsons.
+![footer](./assets/Footer.png)
+
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review.
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
