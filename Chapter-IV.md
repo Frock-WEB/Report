@@ -36,7 +36,7 @@ En esta sección, se presentan los diagramas de componentes de la arquitectura d
 
 #### Bounded Context: Analytics
 
-![Analytics](img/BoundedContext_Analytics.png)
+![Analytics](assets/BoundedContext_Analytics.png)
 
 Este bounded context contiene todo lo relacionado al monitoreo y seguimientos de los colectivos, asi como los reportes de estos.
 
