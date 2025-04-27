@@ -59,7 +59,7 @@ TB1: El equipo entero participó en el desarrollo del sistema, asignando las tar
 * Se crearon los artefactos necesarios usando las herramientas recomendadas y se obtuvieron enlaces de imagen desde la carpeta "assets" en la rama develop del repositorio del informe.
 * Se programaron reuniones para coordinar el avance de los elementos del informe y comunicar los logros del Sprint 1, centrado en la página de inicio.  
 
-<img src="./assets/Insights.png" alt="collaboration insights sprint1" style="width: 600px"/>
+<img src="./assets/Insight.png" alt="collaboration insights sprint1" style="width: 600px"/>
 
 # Student Outcome
 El curso contribuye al cumplimiento del **Student Outcome ABET:ABET – EAC - Student Outcome 5** Criterio: La capacidad de funcionar efectivamente en un equipo cuyos miembros juntos proporcionan liderazgo, crean un entorno de colaboración e inclusivo, establecen objetivos, planifican tareas y cumplen objetivos.
