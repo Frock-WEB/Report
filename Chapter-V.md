@@ -580,6 +580,12 @@ Para el despliegue de nuestra Landing Page hemos utilizado GitHub Pages. Para ha
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
 
+La meta de este sprint fue la implementación de la primera versión de la Landing Page y el informe. Para llevar a cabo este objetivo, hicimos uso de diversas herramientas como GitHub, Visual Studio Code, HTML, CSS. Como evidencias del trabajo realizado tenemos los diagramas de flujo que representan los commits realizados por cada miembro del equipo FROCK.
+
+![Commits-landing](./assets/Insight.png)
+La imagen muestra un gráfico de barras donde se refleja la cantidad de commits hechos por cada miembro del equipo en la Landing Page.
+
+
 # Bibliografía  
 
 Jansen, S. M. (2019). *Practical Domain-Driven Design in Enterprise Java: Using Jakarta EE, NoSQL Databases, and 
