@@ -592,6 +592,85 @@ En esta siguiente etapa de proyecto, nuestra principal objetivo sera desarrollar
 
 Repositorio Github: https://github.com/Frock-WEB/Froc-FrontEnd
 
+#### 5.2.2.2. Sprint  2.
+
+Para nuestro segundo sprint el equipo estableció que el desarrollos de nuestras tareas se realizarian en un aproximado de 26 horas
+
+<table>
+    <thead>
+        <tr>
+            <th>Sprint #</th>
+            <th>Sprint 2</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td colspan="2"><b>Sprint  Background</b></td>
+        </tr>
+        <tr>
+            <td>Date</td>
+            <td>2025/05/12</td>
+        </tr>
+        <tr>
+            <td>Time</td>
+            <td>09:30 PM</td>
+        </tr>
+        <tr>
+            <td>Location</td>
+            <td>Discord</td>
+        </tr>
+        <tr>
+            <td>Prepared by</td>
+            <td>Adrián Emanuel Valerio Garcia</td>
+        </tr>
+        <tr>
+            <td>Atendees (to  meeting)</td>
+            <td>
+                <li>Yasser Rentería Palacios</li>
+                <li>Jesús Iván Castillo Vidal</li>
+                <li>Elvia Rodríguez Villa</li>
+                <li>Amir Castro Sanchez</li>
+            </td>
+        </tr>
+        <tr>
+            <td>Sprint 2 Review Summary</td>
+            <td>
+                Este es el segundo sprint a realizar por el equipo
+            </td>
+        </tr>
+        <tr>
+            <td>Sprint 2 Retrospective Summary</td>
+            <td>
+                Acuerdo de el desarrollo del frontend de nuestra pagina web
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2"><b>Sprint Goal & User Stories</b></td>
+        </tr>
+        <tr>
+            <td>Sprint 2 Goal</td>
+            <td style="text-align: justify">
+                <p>
+                Nuestro objetivo en este sprint es desarrollar el frontend de nuestra pagina web ChapaTuRuta, enfocándonos en mostrar las funcionalidades que tendra nuestra pagina con un diseño atractivo pero simple y que sea de facil uso para los usuarios. Implementaremos vistas clave para la creacion de rutas personalizadas, busqueda de rutas y resumen general del perfil del usuario registrado como cliente.
+                </p>
+                <p>
+                Esto se confirmará cuando los usuarios experimenten una navegación fluida en la pagina web, con un diseño optimizado y una interfaz amigable que les permita buscar opciones de rutas sin inconvenientes. Asimismo, las empresas podrán gestionar sus horarios de atención para que sus clientes
+            </td>
+        </tr>
+        <tr>
+            <td>Sprint 2 Velocity</td>
+            <td>
+                -
+            </td>
+        </tr>
+        <tr>
+            <td>Sum of story points</td>
+            <td>
+                -
+            </td>
+        </tr>
+    </tbody>
+</table>
 
 # Bibliografía  
 
