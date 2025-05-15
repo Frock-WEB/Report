@@ -690,6 +690,33 @@ Para nuestro segundo sprint el equipo estableció que el desarrollos de nuestras
 
 Durante el Sprint 2, el equipo centró sus esfuerzos en el desarrollo del frontend de la Landing Page, priorizando la implementación visual y estructural. Debido a que se trató principalmente de trabajo de interfaz, no fue necesario realizar pruebas de testing en esta etapa.
 
+#### 5.2.2.7. Execution Evidence for Sprint Review.
+
+Tras finalizar el Sprint 2, hemos logrado implementar varias secciones del frontend de nuestra Landing Page. Aunque aún existen detalles por pulir en el diseño visual, ya es posible visualizar gran parte de la estructura y funcionalidad planteadas. A continuación, te mostramos capturas que reflejan los avances alcanzados hasta el momento.
+
+*Seccion de registro e inicio de sesión* : Pantalla para que clientes y empresas accedan o se registren en la plataforma. Las empresas deben completar sus datos y subir el logo de su marca como parte del proceso de registro.
+
+![login](./assets/login1.png)
+![registro](./assets/register1.png)
+![compañiaregistro](./assets/companypicture.png)
+
+*Inicio*: Página principal del cliente donde puede visualizar su información personal, rutas guardadas y acceder rápidamente a funcionalidades clave de su cuenta.
+![inicio](./inicio.png)
+
+*Paraderos*: Sección con lista de los paraderos con su ubicación, referencia y horarios de atención.
+![paraderos](./assets/Paraderos.png)
+
+*Creación de rutas*: donde se crean las parada teniendo en cuenta la tarifa, lugar y hora de llegada y de salida
+![rutas](./assets/Creación-rutas.png)
+
+*Buscar empresa*: Permite buscar y visualizar empresas filtrando por región, ciudad y otros criterios.
+![empresa](./assets/seleccionempresa.png)
+
+*Informacion de la empresa*: Muestra detalles de la empresa de transporte, horarios, precio, duración y contacto.
+![infoempresa](./assets/información-empresa.png)
+
+
+
 # Bibliografía  
 
 Jansen, S. M. (2019). *Practical Domain-Driven Design in Enterprise Java: Using Jakarta EE, NoSQL Databases, and 
