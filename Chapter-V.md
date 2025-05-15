@@ -585,6 +585,13 @@ La meta de este sprint fue la implementación de la primera versión de la Landi
 ![Commits-landing](./assets/Insight.png)
 La imagen muestra un gráfico de barras donde se refleja la cantidad de commits hechos por cada miembro del equipo en la Landing Page.
 
+### 5.2.2. Sprint 2
+#### 5.2.1.1. Sprint Planning 2.
+
+En esta siguiente etapa de proyecto, nuestra principal objetivo sera desarrollar el frontend de nuestra pagina web mediante WebStorm aun como nuestro entorno de desarrollo
+
+Repositorio Github: https://github.com/Frock-WEB/Froc-FrontEnd
+
 
 # Bibliografía  
 
