@@ -682,6 +682,13 @@ Para nuestro segundo sprint el equipo estableció que el desarrollos de nuestras
 | Castro Sanchez, Amir Gabriel           | AmirbarrabajaLeon    |                                      |                  | L                | L                        |                               | C                                   |                         |
 | Rodríguez Villa, Elvia                 | ElviaRV              |                                      |                  | C                 |                          |                               |                                  | L                        |
 
+#### 5.2.2.4. Sprint Backlog 2.
+
+#### 5.2.2.5. Development Evidence for Sprint Review.
+
+#### 5.2.2.6. Execution Evidence for Sprint Review.
+
+Durante el Sprint 2, el equipo centró sus esfuerzos en el desarrollo del frontend de la Landing Page, priorizando la implementación visual y estructural. Debido a que se trató principalmente de trabajo de interfaz, no fue necesario realizar pruebas de testing en esta etapa.
 
 # Bibliografía  
 
