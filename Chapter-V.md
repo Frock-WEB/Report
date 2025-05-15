@@ -701,21 +701,28 @@ Tras finalizar el Sprint 2, hemos logrado implementar varias secciones del front
 ![compañiaregistro](./assets/companypicture.png)
 
 *Inicio*: Página principal del cliente donde puede visualizar su información personal, rutas guardadas y acceder rápidamente a funcionalidades clave de su cuenta.
+
 ![inicio](./assets/inicio.png)
 
 *Paraderos*: Sección con lista de los paraderos con su ubicación, referencia y horarios de atención.
+
 ![paraderos](./assets/Paraderos.png)
 
 *Creación de rutas*: donde se crean las parada teniendo en cuenta la tarifa, lugar y hora de llegada y de salida.
+
 ![rutas](./assets/Creación-rutas.png)
 
 *Buscar empresa*: Permite buscar y visualizar empresas filtrando por región, ciudad y otros criterios.
+
 ![empresa](./assets/seleccionempresa.png)
 
 *Informacion de la empresa*: Muestra detalles de la empresa de transporte, horarios, precio, duración y contacto.
+
 ![infoempresa](./assets/Información-empresa.png)
 
+#### 5.2.1.7. Software Deployment Evidence for Sprint Review.
 
+Para el despliegue de nuestro Frontend hemos utilizado GitHub Pages. Para hacer esto, hemos trabajado en un repositorio de GitHub donde divimos el trabajo en ramas. En la sección de configuración y Pages, seleccionamos la rama main para desplegar nuestra web. 
 
 # Bibliografía  
 
