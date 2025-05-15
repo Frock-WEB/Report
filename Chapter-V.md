@@ -672,6 +672,17 @@ Para nuestro segundo sprint el equipo estableció que el desarrollos de nuestras
     </tbody>
 </table>
 
+#### 5.2.2.3. Aspect Leaders and Collaborators.
+
+| Team Member (Last Name, First Name)    | GitHub Username     | Crear cuenta (corporativa y usuario) | Inicio de sesión | Inicio y resumen | Paraderos e información | Configuración de rutas nuevas | Viajero busca empresa con filtros | Sección información detallada de empresa |
+|----------------------------------------|----------------------|--------------------------------------|------------------|------------------|--------------------------|-------------------------------|-----------------------------------|-------------------------|
+| Rentería Palacios, Yasser              | Mitawarmi2000        |                                      |                  | C                 |                          | L                             |                                   |                         |
+| Valerio Garcia, Adrián Emanuel         | adrianvalerio        | L                                    | L                |                  | C                         |                               |                                   |                         |
+| Castillo Vidal, Jesús Iván             | Jcdev04              | C                                     |                  |                  |                          |                               | L                                 |                         |
+| Castro Sanchez, Amir Gabriel           | AmirbarrabajaLeon    |                                      |                  | L                | L                        |                               | C                                   |                         |
+| Rodríguez Villa, Elvia                 | ElviaRV              |                                      |                  | C                 |                          |                               |                                  | L                        |
+
+
 # Bibliografía  
 
 Jansen, S. M. (2019). *Practical Domain-Driven Design in Enterprise Java: Using Jakarta EE, NoSQL Databases, and 
