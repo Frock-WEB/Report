@@ -760,15 +760,17 @@ Tras finalizar el Sprint 2, hemos logrado implementar varias secciones del front
 
 Para el despliegue de nuestro Frontend hemos utilizado GitHub Pages. Para hacer esto, hemos trabajado en un repositorio de GitHub donde divimos el trabajo en ramas. En la sección de configuración y Pages, seleccionamos la rama main para desplegar nuestra web. 
 
-Link de la landing page desplegada: https://github.com/Frock-WEB/Frock-FrontEnd.git
+Link de del FrontEnd desplegado: https://deft-tapioca-c27a9c.netlify.app/
 
-![link2](./assets/linkfront.png)
+![link2](./assets/despliegue.png)
 
 5.2.1.9. Team Collaboration Insights during Sprint.
 
-La meta de este sprint fue la implementación del FrontEnd de nuestra pagina web y correcciones del informe. Para llevar a cabo este objetivo, hicimos uso de diversas herramientas como GitHub, WebStorm, Vue y Primevue. Como evidencias del trabajo realizado tenemos los diagramas de flujo que representan los commits realizados por cada miembro del equipo FROCK.
+La meta de este sprint fue la implementación del FrontEnd de nuestra pagina web y correcciones del informe. Para llevar a cabo este objetivo, hicimos uso de diversas herramientas como GitHub, WebStorm, Vue, Primevue y heroicons.
 
 ![insights](./assets/InsightFront.png)
+
+
 
 # Bibliografía  
 
@@ -819,4 +821,5 @@ Link de la Organización FROCK: https://github.com/Frock-WEB
 |-------------------------------|---------------------------------------------------------|
 | FROCK Project Report     | https://github.com/Frock-WEB/Report |
 | FROCK Landing Page       | https://github.com/Frock-WEB/LandingFrock  |
+| FROCK FrontEnd           | https://deft-tapioca-c27a9c.netlify.app/   |
 
