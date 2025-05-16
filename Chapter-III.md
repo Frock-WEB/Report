@@ -33,6 +33,11 @@
 | US13          | Conocer las ventajas del servicio   | Como visitante, quiero conocer las ventajas de usar la plataforma para decidirme a utilizarla. | **Escenario 1: Visualización de ventajas**<br/>Dado que ingreso a la Landing Page,<br/>Cuando hago clic en el menú "Ventajas",<br/>Entonces debo ser dirigido a una sección donde se describan claramente los beneficios de usar la plataforma.<br/><br/>**Escenario 2: Sección no cargada**<br/>Dado que ocurre un error en la página,<br/>Cuando hago clic en "Ventajas",<br/>Entonces el sistema debe mostrar un mensaje de error amigable.<br/><br/> |
 | US14          | Acceder a preguntas frecuentes (FAQ) | Como visitante, quiero resolver mis dudas rápidamente leyendo preguntas frecuentes. | **Escenario 1: Acceso a FAQ**<br/>Dado que ingreso a la Landing Page,<br/>Cuando hago clic en el menú "FAQ",<br/>Entonces debo ser dirigido a una sección de preguntas frecuentes con respuestas claras.<br/><br/>**Escenario 2: FAQ no disponible**<br/>Dado que ocurre un problema de carga,<br/>Cuando hago clic en "FAQ",<br/>Entonces el sistema debe mostrarme un mensaje indicando que el contenido no está disponible temporalmente.<br/><br/> |
 | US15          | Postular como colaborador           | Como visitante, quiero tener una opción para colaborar con la plataforma para aportar al crecimiento del servicio. | **Escenario 1: Acceso a colaboración**<br/>Dado que ingreso a la Landing Page,<br/>Cuando hago clic en "Colabora",<br/>Entonces debo ser dirigido a un formulario o sección que explique cómo puedo colaborar.<br/><br/>**Escenario 2: Sección de colaboración no disponible**<br/>Dado que la sección de colaboración no esté activa aún,<br/>Cuando intento acceder,<br/>Entonces el sistema debe indicarme que aún no está habilitada pero que pronto estará disponible.<br/><br/> |
+| US16           | Registro de usuario para empresas     | Como empresa de transporte, quiero registrarme en la plataforma, para poder gestionar mis paraderos y rutas. | **Escenario 1: Registro exitoso**<br>- Dado que ingreso mi correo y contraseña,<br>- Cuando completo el formulario y envío,<br>- Entonces mi cuenta debe ser creada y recibiré un mensaje de confirmación.<br>**Escenario 2: Correo ya registrado**<br>- Dado que intento registrarme,<br>- Cuando ingreso un correo ya registrado,<br>- Entonces debo ver un mensaje de error indicando "Correo ya en uso". |
+| US17           | Inicio de sesión para empresas        | Como empresa de transporte, quiero iniciar sesión en la plataforma, para gestionar mis paraderos y rutas.      | **Escenario 1: Inicio de sesión exitoso**<br>- Dado que soy una empresa registrada,<br>- Cuando ingreso mis credenciales correctamente,<br>- Entonces debo ser redirigido a mi panel de administración. |
+| US18           | Gestión de Rutas para Empresas        | Como empresa de transporte, quiero crear, editar y eliminar rutas, para mantener mi servicio actualizado.       | **Escenario 1: Crear nueva ruta**<br>- Dado que estoy en la sección de rutas,<br>- Cuando creo una nueva ruta,<br>- Entonces debe aparecer en la lista de rutas.<br>**Escenario 2: Editar o eliminar ruta**<br>- Dado que selecciono una ruta existente,<br>- Cuando la edito o elimino,<br>- Entonces los cambios deben reflejarse de inmediato. |
+
+
 | Technical Story ID | Título                                         | Descripción                                                                                                                           | Criterios de aceptación |
 | TS01               | Configuración de Fake API (JSON Server)        | Como desarrollador, quiero configurar una Fake API usando JSON Server para simular datos y endpoints.                                 | Criterio : VVV          |
 | TS02               | Simulación de regiones, provincias y distritos | Como desarrollador, quiero simular regiones, provincias y distritos para organizar las zonas de operación de los colectivos.          | Criterio : VVV          |
@@ -70,6 +75,12 @@
 | 10    | US-10 | Enviar notificación sobre cambios en las rutas       | 4            |
 | 11    | US-11 | Calificar la experiencia con un colectivo            | 3            |
 | 12    | US-12 | Reportar un problema con un colectivo o ruta         | 5            |
+| 13		| US13 | Conocer las ventajas del servicio   | 2  |
+| 14		| US14 | Acceder a preguntas frecuentes (FAQ)| 2  |
+| 15		| US15 | Postular como colaborador           | 3  |
+| 16		| US16 | Registro de usuario para empresas   | 5  |
+| 17		| US17 | Inicio de sesión para empresas      | 3  |
+| 18		| US18 | Gestión de Rutas para Empresas      | 8  |
  **#Orden** |   **ID**   | **Technical Story**                        | **Story Points** |
 | 01     | TS-01 | Configuración de Fake API (JSON Server)       				| 3            |
 | 02     | TS-02 | Simulación de regiones, provincias y distritos				| 2            |
