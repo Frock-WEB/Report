@@ -770,7 +770,9 @@ La meta de este sprint fue la implementación del FrontEnd de nuestra pagina web
 
 ![insights](./assets/InsightFront.png)
 
+## 5.3. Video About-the-Product.  
 
+**LINK DE ACCESO AL VIDEO:** https://upcedupe-my.sharepoint.com/:f:/g/personal/u202214130_upc_edu_pe/Eol2tkHQItxAn8woQMXUUTQBgJi3MWuehDVBPoE6CaJQhw?e=e78EokSSss
 
 # Bibliografía  
 
