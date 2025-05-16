@@ -684,18 +684,26 @@ Para nuestro segundo sprint el equipo estableció que el desarrollos de nuestras
 
 #### 5.2.2.4. Sprint Backlog 2.
 
-| Sprint # | Sprint 2 |
-|----------|----------|
+| User Story |                                      | Work-Item / Task |                                        |                                                                     |                      |               |                                                |
+| ---------- | ------------------------------------ | ---------------- | -------------------------------------- | ------------------------------------------------------------------- | -------------------- | ------------- | ---------------------------------------------- |
+| Id         | Title                                | Id               | Title                                  | Description                                                         | Estimation (Hours)   | Assigned To   | Status (To-do / In-Process / To-Review / Done) |
+| ----       | -------                              | ----             | ------                                 | -------------                                                       | -------------------- | ------------- | ---------------------------------------------- |
+| US16       | Registro de usuario                  | T01              | Diseño de formulario de registro       | Crear la interfaz del formulario de registro.                       | 2                    | Yasser        | To-do                                          |
+|            |                                      | T02              | Validación de campos de usuario        | Implementar validación en tiempo real de los campos del formulario. | 2                    | Elvia         | To-do                                          |
+|            |                                      | T03              | Lógica de registro en backend          | Desarrollar lógica de creación de usuarios.                         | 1                    | Jesús         | To-do                                          |
+| US17       | Inicio de sesión de usuario          | T04              | Diseño de formulario de login          | Crear la interfaz del formulario de login.                          | 2                    | Adrián        | To-do                                          |
+|            |                                      | T05              | Lógica de autenticación                | Implementar autenticación en backend.                               | 1                    | Elvia         | To-do                                          |
+| US18       | Gestión de Rutas para Empresas       | T06              | Diseño de interfaz de gestión de rutas | Crear la interfaz para visualizar y gestionar rutas.                | 3                    | Yasser        | To-do                                          |
+|            |                                      | T07              | Lógica CRUD de rutas                   | Implementar lógica de crear, editar y eliminar rutas.               | 3                    | Jesús         | To-do                                          |
+| US19       | Personalización de perfil            | T08              | Subida de logo de empresa              | Permitir que las empresas suban su logo.                            | 1                    | Adrián        | To-do                                          |
+|            |                                      | T09              | Edición del nombre de empresa          | Permitir que las empresas editen su nombre.                         | 1                    | Elvia         | To-do                                          |
+| US20       | Navegación en toolbar                | T10              | Configuración del toolbar              | Permitir navegación entre inicio, paraderos y rutas.                | 1                    | Yasser        | To-do                                          |
+| US21       | Ver resumen en la página de inicio   | T11              | Diseño del resumen general             | Mostrar total de paraderos, tarifa promedio e intervalo promedio.   | 1                    | Jesús         | To-do                                          |
+| US22       | Ver paraderos en la página de inicio | T12              | Listado de paraderos                   | Mostrar lista de paraderos y sus ubicaciones.                       | 2                    | Elvia         | To-do                                          |
+| US23       | Gestión de paraderos                 | T13              | CRUD de paraderos                      | Crear, editar y eliminar paraderos.                                 | 3                    | Jesús         | To-do                                          |
+| US24       | Filtrar paraderos por ubicación      | T14              | Filtro de paraderos                    | Permitir filtrar por región, provincia, distrito, localidad.        | 2                    | Adrián        | To-do                                          |
+| US25       | Ver detalles de una ruta             | T15              | Visualización de detalles de ruta      | Mostrar información completa de la ruta.                            | 2                    | Amir          | To-do                                          |
 
-| User Story | | Work-Item / Task | | | | |
-|------------|--------------------|----------------|----------------|------------------|------------------|----------------|
-| Id | Title | Id | Title | Description | Estimation (Hours) | Assigned To | Status (To-do / In-Process / To-Review / Done) |
-|----|-------|----|------|-------------|--------------------|-------------|----------------------------------------------|
-| US03 |Ver información del conductor | T01 | Implementar sección para ver la información del conductor | Diseñar y creas la estructura para ver la información del conductor. | 4 | Rodriguez Villa, Elvia | In-Progress |
-| US02 | Ver paraderos en el mapa | T02 | Implementar visualización de paraderos | Crear vista de mapa e integrar paraderos cercanos usando la ubicación del usuario. | 8 | Rentería Palacios, Yasser | In-Progress  |
-| US12 | Consultar cómo funciona el servicio | T03 | Crear sección "Cómo funciona" | Desarrollar la sección explicativa en la Landing Page. | 5 | Valerio Garcia, Adrián Emanuel | Done |
-| US13 | Conocer las ventajas del servicio | T04 | Crear sección "Ventajas" | Diseñar y codificar la sección que muestra los beneficios de la plataforma. | 4 | Castillo Vidal, Jesús Iván | Done |
-| US14 | Acceder a preguntas frecuentes (FAQ) | T05 | Implementar sección FAQ | Crear y estructurar las preguntas frecuentes en la Landing Page. | 4 | Castro Sanchez, Amir Gabriel | Done |
 
 #### 5.2.2.5. Development Evidence for Sprint Review.
 
