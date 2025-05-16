@@ -724,7 +724,7 @@ Tras finalizar el Sprint 2, hemos logrado implementar varias secciones del front
 
 Para el despliegue de nuestro Frontend hemos utilizado GitHub Pages. Para hacer esto, hemos trabajado en un repositorio de GitHub donde divimos el trabajo en ramas. En la sección de configuración y Pages, seleccionamos la rama main para desplegar nuestra web. 
 
-Link de la landing page desplegada: https://frock-web.github.io/Frock-FrontEnd/
+Link de la landing page desplegada: https://github.com/Frock-WEB/Frock-FrontEnd.git
 
 ![link2](./assets/linkfront.png)
 
