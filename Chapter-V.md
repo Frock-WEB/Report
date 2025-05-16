@@ -684,7 +684,35 @@ Para nuestro segundo sprint el equipo estableció que el desarrollos de nuestras
 
 #### 5.2.2.4. Sprint Backlog 2.
 
+| Sprint # | Sprint 2 |
+|----------|----------|
+
+| User Story | | Work-Item / Task | | | | |
+|------------|--------------------|----------------|----------------|------------------|------------------|----------------|
+| Id | Title | Id | Title | Description | Estimation (Hours) | Assigned To | Status (To-do / In-Process / To-Review / Done) |
+|----|-------|----|------|-------------|--------------------|-------------|----------------------------------------------|
+| US03 |Ver información del conductor | T01 | Implementar sección para ver la información del conductor | Diseñar y creas la estructura para ver la información del conductor. | 4 | Rodriguez Villa, Elvia | In-Progress |
+| US02 | Ver paraderos en el mapa | T02 | Implementar visualización de paraderos | Crear vista de mapa e integrar paraderos cercanos usando la ubicación del usuario. | 8 | Rentería Palacios, Yasser | In-Progress  |
+| US12 | Consultar cómo funciona el servicio | T03 | Crear sección "Cómo funciona" | Desarrollar la sección explicativa en la Landing Page. | 5 | Valerio Garcia, Adrián Emanuel | Done |
+| US13 | Conocer las ventajas del servicio | T04 | Crear sección "Ventajas" | Diseñar y codificar la sección que muestra los beneficios de la plataforma. | 4 | Castillo Vidal, Jesús Iván | Done |
+| US14 | Acceder a preguntas frecuentes (FAQ) | T05 | Implementar sección FAQ | Crear y estructurar las preguntas frecuentes en la Landing Page. | 4 | Castro Sanchez, Amir Gabriel | Done |
+
 #### 5.2.2.5. Development Evidence for Sprint Review.
+
+## Avances de Implementación
+
+En esta sección se explica y presenta los avances en implementación con relación a los productos de la solución según el alcance del Sprint: FrontEnd. La sección inicia con una introducción que resume los principales avances en la implementación. A continuación se presenta la tabla que incluye, para cada repositorio, los commits relacionados con la implementación.
+
+| Repository       | Branch | Commit Id | Commit Message                               | Commit Message Body                                                                      | Committed   |
+|:----------------:|:------:|:---------:|:---------------------------------------------:|:-----------------------------------------------------------------------------------------:|:-----------:|
+| Frock-FrontEnd   | feature/auth-pages   | a1b2c3d   | feat(auth): crear cuenta de usuario          | Se implementó el formulario de registro de cuenta con validaciones.                     | 1/05/2025  |
+| Frock-FrontEnd   | feature/auth-pages  | d4e5f6g   | feat(auth): inicio de sesión funcional       | Se añadió la funcionalidad de login con conexión al backend.                            | 6/05/2025  |
+| Frock-FrontEnd   | feature/ | h7i8j9k   | feat: vista de inicio y resumen              | Creación de la vista inicial con resumen informativo.                                   | 27/04/2025  |
+| Frock-FrontEnd   | feature/stops | l0m1n2o   | feat: paraderos e información de viaje       | Se desarrolló el componente de paraderos con detalles del recorrido.                    | 28/04/2025  |
+| Frock-FrontEnd   | feature/combiroutes   | p3q4r5s   | feat: configuración de nuevas rutas          | Se implementó el panel de configuración de rutas disponibles para empresas.             | 8/05/2025  |
+| Frock-FrontEnd   | feature/allStops | t6u7v8w   | feat: buscador de empresas con filtros       | Componente para que el viajero pueda filtrar empresas por ubicación y calificación.     | 30/04/2025  |
+| Frock-FrontEnd   | feature/route-detail   | x9y0z1a   | feat: sección detallada de empresa           | Se añadió la vista de información detallada de cada empresa con contacto y reseñas.     | 09/05/2025  |
+
 
 #### 5.2.2.6. Execution Evidence for Sprint Review.
 
