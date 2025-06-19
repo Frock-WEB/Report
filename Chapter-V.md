@@ -586,7 +586,7 @@ La meta de este sprint fue la implementación de la primera versión de la Landi
 La imagen muestra un gráfico de barras donde se refleja la cantidad de commits hechos por cada miembro del equipo en la Landing Page.
 
 ### 5.2.2. Sprint 2
-#### 5.2.1.1. Sprint Planning 2.
+#### 5.2.2.1. Sprint Planning 2.
 
 En esta siguiente etapa de proyecto, nuestra principal objetivo sera desarrollar el frontend de nuestra pagina web mediante WebStorm aun como nuestro entorno de desarrollo
 
@@ -756,7 +756,7 @@ Tras finalizar el Sprint 2, hemos logrado implementar varias secciones del front
 
 ![infoempresa](./assets/Información-empresa.png)
 
-#### 5.2.1.8. Software Deployment Evidence for Sprint Review.
+#### 5.2.2.8. Software Deployment Evidence for Sprint Review.
 
 Para el despliegue de nuestro Frontend hemos utilizado GitHub Pages. Para hacer esto, hemos trabajado en un repositorio de GitHub donde divimos el trabajo en ramas. En la sección de configuración y Pages, seleccionamos la rama main para desplegar nuestra web. 
 
@@ -764,11 +764,29 @@ Link de del FrontEnd desplegado: https://deft-tapioca-c27a9c.netlify.app/
 
 ![link2](./assets/despliegue.png)
 
-#### 5.2.1.9. Team Collaboration Insights during Sprint.
+#### 5.2.2.9. Team Collaboration Insights during Sprint.
 
 La meta de este sprint fue la implementación del FrontEnd de nuestra pagina web y correcciones del informe. Para llevar a cabo este objetivo, hicimos uso de diversas herramientas como GitHub, WebStorm, Vue, Primevue y heroicons.
 
 ![insights](./assets/InsightFront.png)
+
+### 5.2.3.	Sprint 3
+
+#### 5.2.3.1.	Sprint Planning 3.
+
+#### 5.2.3.2.   Aspect Leaders and Collaborators.
+
+#### 5.2.3.3.	Sprint Backlog 3.
+
+#### 5.2.3.4.	Development Evidence for Sprint Review.
+
+#### 5.2.3.5.	Execution Evidence for Sprint Review.
+
+#### 5.2.3.6.	Services Documentation Evidence for Sprint Review.
+
+#### 5.2.3.7.	Software Deployment Evidence for Sprint Review.
+
+#### 5.2.3.8.	Team Collaboration Insights during Sprint.
 
 
 ## 5.3. Validation Interviews.
