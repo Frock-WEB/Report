@@ -764,15 +764,27 @@ Link de del FrontEnd desplegado: https://deft-tapioca-c27a9c.netlify.app/
 
 ![link2](./assets/despliegue.png)
 
-5.2.1.9. Team Collaboration Insights during Sprint.
+#### 5.2.1.9. Team Collaboration Insights during Sprint.
 
 La meta de este sprint fue la implementación del FrontEnd de nuestra pagina web y correcciones del informe. Para llevar a cabo este objetivo, hicimos uso de diversas herramientas como GitHub, WebStorm, Vue, Primevue y heroicons.
 
 ![insights](./assets/InsightFront.png)
 
-## 5.3. Video About-the-Product.  
+
+## 5.3. Validation Interviews.
+### 5.3.1. Diseño de Entrevistas.
+### 5.3.2. Registro de Entrevistas.
+### 5.3.3. Evaluaciones según heurísticas.
+
+## 5.4. Video About-the-Product.  
 
 **LINK DE ACCESO AL VIDEO:** https://upcedupe-my.sharepoint.com/:f:/g/personal/u202214130_upc_edu_pe/Eol2tkHQItxAn8woQMXUUTQBgJi3MWuehDVBPoE6CaJQhw?e=e78EokSSss
+
+# Conclusiones
+
+## Conclusiones y Recomendaciones
+
+## Video About-the-Team
 
 # Bibliografía  
 
