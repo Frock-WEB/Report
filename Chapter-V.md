@@ -870,7 +870,81 @@ Tras finalizar el Sprint 3, hemos logrado implementar los endpoints principales 
 
 ## 5.3. Validation Interviews.
 ### 5.3.1. Diseño de Entrevistas.
+
+## Datos del Usuario
+- **Nombre:** _______________
+- **Apellido:** _______________  
+- **Tipo de usuario:** [ ] Dueño de empresa [ ] Administrador [ ] Conductor [ ] Otro
+
+---
+
+## 1. Landing Page
+1. ¿Entiendes qué hace la aplicación? [ ] Sí [ ] No
+2. ¿Te interesa probarla? [ ] Sí [ ] No
+3. ¿Los colores te gustan? [ ] Sí [ ] No
+
+## 2. Registro
+4. ¿Fue fácil crear la cuenta? [ ] Sí [ ] No
+5. ¿Fue fácil registrar tu empresa? [ ] Sí [ ] No
+
+## 3. Aplicación
+6. ¿Es fácil navegar? [ ] Sí [ ] No
+7. ¿Entiendes cómo crear rutas? [ ] Sí [ ] No
+8. ¿Entiendes cómo crear paraderos? [ ] Sí [ ] No
+9. ¿El diseño se ve limpio? [ ] Sí [ ] No
+
+## 4. General
+10. **Califica la app del 1 al 10:** ___/10
+11. **¿Qué mejorarías?** _______________
+12. **¿La recomendarías?** [ ] Sí [ ] No
+
+---
+
 ### 5.3.2. Registro de Entrevistas.
+
+![In1](./assets/In1.PNG)
+
+*Timing:* 00:00 - 02:54
+
+*Nombres:* Renato 
+
+*Apellidos:* Calvo Yalan
+
+*Edad:* 27
+
+*Distrito:* Villa EL Salvador
+
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214130_upc_edu_pe/EQ2Y9f90W_ZAkG6WvSsT9ZoBmbep3Hpa10Em3Jf-GH9B3Q?e=b38XtA
+
+![In2](./assets/In2.PNG)
+
+*Timing:* 00:00 - 02:44
+
+*Nombres:* Raúl
+
+*Apellidos:* Medina
+
+*Edad:* 25
+
+*Distrito:* Lince
+
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214130_upc_edu_pe/EWZIAPv65uNNqmbCmYCBg6ABffmkPkSVuAhXIjyCmHHIlg?e=nghaZd
+
+![In3](./assets/In3.PNG)
+
+*Timing:* 00:00 - 03:46
+
+*Nombres:* Bruno
+
+*Apellidos:* Chaud Carbajal
+
+*Edad:* 30
+
+*Distrito:* Chorrillos
+
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214130_upc_edu_pe/EW7d6v2o1_VLiEPwuV-pFSUBfpuHQu0HOtRHbbVj2KKKaw?e=zhaJFv
+
+
 ### 5.3.3. Evaluaciones según heurísticas.
 
 ## 5.4. Video About-the-Product.  
