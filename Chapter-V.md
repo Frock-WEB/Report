@@ -771,12 +771,26 @@ La meta de este sprint fue la implementación del FrontEnd de nuestra pagina web
 ![insights](./assets/InsightFront.png)
 
 ### 5.2.3.	Sprint 3
-
 #### 5.2.3.1.	Sprint Planning 3.
 
+{Texto Sobre Lo principal de este Sprint}
+
 #### 5.2.3.2.   Aspect Leaders and Collaborators.
+| Team Member (Last Name, First Name)    | GitHub Username    | Item 1 | Item 2 | Item 3 | Item 4 | Item 5 | Item 6 | Item 7 | Item 8 | Item 9 | Item 10 |
+|----------------------------------------|--------------------|--------------------------------------------|---------------------------------------|--------------------------------------|------------------------------------|--------------------------------------------|----------------------------------------------|---------------------------------|-------------------------------------------|-------------------------------------------------------------|----------------------------------|
+| Rentería Palacios, Yasser              | Mitawarmi2000      | L                                          | C                                     | C                                    |                                    |                                            | L                                            |                                 | C                                         | L                                                           |                                  |
+| Valerio Garcia, Adrián Emanuel         | adrianvalerio      | C                                          | L                                     |                                      | L                                  |                                            |                                              | C                               | L                                         |                                                             | C                                |
+| Castillo Vidal, Jesús Iván             | Jcdev04            |                                            | C                                     | L                                    | C                                  | L                                          | C                                            |                                 |                                           | C                                                           | L                                |
+| Castro Sanchez, Amir Gabriel           | AmirbarrabajaLeon  | C                                          |                                       | C                                    |                                    | C                                          | L                                            | L                               |                                           |                                                             | C                                |
+
 
 #### 5.2.3.3.	Sprint Backlog 3.
+
+| User Story |                                      | Work-Item / Task |                                        |                                                                     |                      |               |                                                |
+| ---------- | ------------------------------------ | ---------------- | -------------------------------------- | ------------------------------------------------------------------- | -------------------- | ------------- | ---------------------------------------------- |
+| Id         | Title                                | Id               | Title                                  | Description                                                         | Estimation (Hours)   | Assigned To   | Status (To-do / In-Process / To-Review / Done) |
+| ----       | -------                              | ----             | ------                                 | -------------                                                       | -------------------- | ------------- | -----------------------------------------
+
 
 #### 5.2.3.4.	Development Evidence for Sprint Review.
 
