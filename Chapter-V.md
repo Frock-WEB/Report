@@ -947,6 +947,158 @@ https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214130_upc_edu_pe/EW7d6v2o
 
 ### 5.3.3. Evaluaciones según heurísticas.
 
+# UX Heuristics & Principles Evaluation
+## Usability – Inclusive Design – Information Architecture
+
+**CARRERA:** Ingeniería de Software  
+
+**CURSO:** Aplicaciones Web  
+
+**SECCIÓN:** 4381 
+
+**PROFESORES:** Todos  
+
+**AUDITOR:** Frock 
+
+**CLIENTE(S):** Usuarios que usan colectivos y Gestores de Colectivos
+
+---
+
+## SITE o APP A EVALUAR:
+
+**Nombre de App:** ChapaTuRuta
+
+## TAREAS A EVALUAR:
+
+*El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:*
+
+1. **Navegación entre componentes interactivos**
+2. **Implementación de interfaces responsivas**
+3. **Gestión de estado en aplicaciones React**
+4. **Integración de APIs y manejo de datos**
+5. **Configuración de herramientas de desarrollo**
+6. **Optimización de rendimiento web**
+7. **Implementación de funcionalidades dinámicas**
+8. **Manejo de formularios y validaciones**
+
+*No están incluidas en esta versión de la evaluación las siguientes tareas:*
+
+1. **Pruebas de seguridad avanzadas**
+2. **Testing automatizado completo**
+3. **Despliegue en producción**
+4. **Integración con servicios de terceros complejos**
+5. **Análisis de SEO avanzado**
+
+---
+
+## ESCALA DE SEVERIDAD:
+
+*Los errores serán puntuados tomando en cuenta la siguiente escala de severidad*
+
+| Nivel | Descripción |
+|-------|-------------|
+| **1** | **Problema superficial:** puede ser fácilmente superado por el usuario u ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo. |
+| **2** | **Problema menor:** puede ocurrir un poco más a menudo o ser ligeramente más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente release. |
+| **3** | **Problema mayor:** ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta. |
+| **4** | **Problema muy grave:** un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento. |
+
+## TABLA RESUMEN:
+
+| # | Problema | Escala de Severidad | Heurística/Principio violado(s) |
+|---|----------|-------------------|--------------------------------|
+| **1** | Falta de feedback visual durante cargas | **3** | Visibilidad del estado del sistema |
+| **2** | Inconsistencia en patrones de navegación | **2** | Consistencia y estándares |
+| **3** | Componentes no accesibles por teclado | **4** | Flexibilidad y eficiencia de uso |
+| **4** | Mensajes de error poco claros | **3** | Ayuda a usuarios reconocer errores |
+| **5** | Falta de documentación inline | **2** | Ayuda y documentación |
+| **6** | Interfaces no responsivas en móviles | **4** | Diseño responsive y adaptativo |
+| **7** | Estados de loading inconsistentes | **2** | Visibilidad del estado del sistema |
+| **8** | Validación de formularios tardía | **3** | Prevención de errores |
+
+---
+
+## DESCRIPCIÓN DE PROBLEMAS:
+
+### PROBLEMA #1: Falta de feedback visual durante cargas
+**Severidad:** 3  
+**Heurística violada:** Visibilidad del estado del sistema  
+
+**Problema:**
+En múltiples implementaciones observadas, las aplicaciones no proporcionan feedback visual adecuado durante procesos de carga, especialmente al realizar peticiones a APIs o al cambiar entre vistas. Los usuarios quedan sin información sobre el estado actual del sistema.
+
+**Recomendación:**
+Implementar indicadores de carga consistentes (spinners, skeleton screens, progress bars) en todas las operaciones asíncronas. Utilizar estados de loading en React para mostrar feedback inmediato al usuario.
+
+### PROBLEMA #2: Inconsistencia en patrones de navegación
+**Severidad:** 2  
+**Heurística violada:** Consistencia y estándares  
+
+**Problema:**
+Se observaron diferencias en los patrones de navegación entre diferentes secciones de las aplicaciones, con botones, menús y enlaces que no siguen un diseño consistente.
+
+**Recomendación:**
+Establecer un sistema de diseño unificado con componentes reutilizables que mantengan consistencia visual y funcional en toda la aplicación.
+
+### PROBLEMA #3: Componentes no accesibles por teclado
+**Severidad:** 4  
+**Heurística violada:** Flexibilidad y eficiencia de uso  
+
+**Problema:**
+Varios componentes interactivos no son navegables mediante teclado, limitando la accesibilidad para usuarios que dependen de esta funcionalidad.
+
+**Recomendación:**
+Implementar navegación por teclado en todos los elementos interactivos, añadir focus states visibles y seguir las pautas WCAG para accesibilidad.
+
+### PROBLEMA #4: Mensajes de error poco claros
+**Severidad:** 3  
+**Heurística violada:** Ayuda a usuarios reconocer, diagnosticar y recuperarse de errores  
+
+**Problema:**
+Los mensajes de error técnicos no proporcionan información útil para que los usuarios entiendan qué salió mal o cómo solucionarlo.
+
+**Recomendación:**
+Crear mensajes de error descriptivos y orientados a la acción, que expliquen claramente el problema y sugieran pasos para resolverlo.
+
+### PROBLEMA #5: Falta de documentación inline
+**Severidad:** 2  
+**Heurística violada:** Ayuda y documentación  
+
+**Problema:**
+Las interfaces carecen de tooltips, hints o documentación contextual que ayude a los usuarios a entender funcionalidades complejas.
+
+**Recomendación:**
+Añadir tooltips informativos, placeholders descriptivos y ayuda contextual en formularios y funcionalidades avanzadas.
+
+### PROBLEMA #6: Interfaces no responsivas en móviles
+**Severidad:** 4  
+**Heurística violada:** Diseño responsive y adaptativo  
+
+**Problema:**
+Varias implementaciones no se adaptan correctamente a dispositivos móviles, causando problemas de usabilidad en pantallas pequeñas.
+
+**Recomendación:**
+Implementar diseño mobile-first con breakpoints apropiados y testing exhaustivo en diferentes dispositivos.
+
+### PROBLEMA #7: Estados de loading inconsistentes
+**Severidad:** 2  
+**Heurística violada:** Visibilidad del estado del sistema  
+
+**Problema:**
+Los estados de carga se muestran de manera inconsistente, algunos muy rápidos para ser percibidos y otros demasiado genéricos.
+
+**Recomendación:**
+Estandarizar los estados de loading con duraciones mínimas apropiadas y mensajes contextuales según la operación.
+
+### PROBLEMA #8: Validación de formularios tardía
+**Severidad:** 3  
+**Heurística violada:** Prevención de errores  
+
+**Problema:**
+La validación de formularios ocurre solo al envío, no proporcionando feedback temprano que prevenga errores del usuario.
+
+**Recomendación:**
+Implementar validación en tiempo real con feedback inmediato, manteniendo un balance entre ser útil y no ser intrusivo.
+
 ## 5.4. Video About-the-Product.  
 
 **LINK DE ACCESO AL VIDEO:** https://upcedupe-my.sharepoint.com/:f:/g/personal/u202214130_upc_edu_pe/Eol2tkHQItxAn8woQMXUUTQBgJi3MWuehDVBPoE6CaJQhw?e=e78EokSSss
