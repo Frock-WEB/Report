@@ -768,7 +768,7 @@ Link de del FrontEnd desplegado: https://deft-tapioca-c27a9c.netlify.app/
 
 La meta de este sprint fue la implementación del FrontEnd de nuestra pagina web y correcciones del informe. Para llevar a cabo este objetivo, hicimos uso de diversas herramientas como GitHub, WebStorm, Vue, Primevue y heroicons.
 
-![insights](./assets/InsightFront.png)
+![insights](./assets/Insight.png)
 
 ### 5.2.3.	Sprint 3
 #### 5.2.3.1.	Sprint Planning 3.
