@@ -838,6 +838,7 @@ Tras finalizar el Sprint 3, hemos logrado implementar los endpoints principales 
 
 #### 5.2.3.8.	Team Collaboration Insights during Sprint.
 
+![paraderos](./assets/Contributors.PNG)
 
 ## 5.3. Validation Interviews.
 ### 5.3.1. Diseño de Entrevistas.
