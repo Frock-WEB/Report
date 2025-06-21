@@ -841,6 +841,7 @@ Aunque aún existen optimizaciones por realizar en la comunicación entre servic
 ![Home](./assets/HomeF.png)
 
 ***Backend Swagger***
+
 ![Swagger](./assets/SwaggB.PNG)
 
 
