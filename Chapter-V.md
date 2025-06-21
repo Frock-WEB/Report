@@ -773,7 +773,19 @@ La meta de este sprint fue la implementación del FrontEnd de nuestra pagina web
 ### 5.2.3.	Sprint 3
 #### 5.2.3.1.	Sprint Planning 3.
 
-{Texto Sobre Lo principal de este Sprint}
+| Sprint # | Sprint 3 |
+|----------|----------|
+| **Sprint Background** | |
+| Date | 2025/26/01 |
+| Time | 10:00 PM |
+| Location | Discord |
+| Prepared by | Amir Castro Sanchez |
+| Attendees (to meeting) | • Yasser Rentería Palacios<br>• Jesús Iván Castillo Vidal<br>• Adrián Emanuel Valerio García |
+| Sprint 3 Review Summary | Este es el tercer sprint a realizar por el equipo |
+| Sprint 3 Retrospective Summary | Acuerdo de el desarrollo del nuevo frontend, avance del backend y conexión del backend con el frontend | 
+| Sprint 3 Goal | Nuestro objetivo en este sprint es consolidar la arquitectura completa de ChapaTuRuta mediante el desarrollo de un nuevo frontend con mejoras significativas en la experiencia visual e interacción del usuario. Nos enfocaremos en implementar una interfaz moderna y responsive que facilite la búsqueda de rutas, gestión de empresas de transporte y administración de paradas. Paralelamente, continuaremos el desarrollo del backend con la implementación de nuevos endpoints REST, optimización de la base de datos y establecimiento de la conexión integral entre frontend y backend.<br><br>Esto se confirmará cuando los usuarios experimenten una navegación fluida y intuitiva en la nueva interfaz web, con funcionalidades completas de búsqueda de rutas, visualización de horarios y gestión de perfiles. Asimismo, las empresas podrán administrar completamente sus servicios de transporte a través de un panel de control integrado que conecte seamlessly con los servicios backend actualizados. |
+| Sprint 3 Velocity | - |
+| Sum of story points | - |
 
 #### 5.2.3.2.   Aspect Leaders and Collaborators.
 
