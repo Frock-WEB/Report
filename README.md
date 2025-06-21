@@ -23,7 +23,6 @@
 |-------------------------------|------------|
 | Yasser Rentería Palacios      | U202214130 |
 | Adrian Valerio García         | U202210334 |
-| Elvia Marcela Rodríguez Villa | U20231C784 |
 | Amir Gabriel Castro Sanchez   | U202310680 |
 | Jesús Iván Castillo Vidal     | U202322952 |
 
@@ -39,7 +38,7 @@
 | 0.0.1   | 10/04/2025 | All | Desarrollo Capítulo (1)                               |
 | 0.0.2   | 22/04/2025 | All | Desarrollo Capítulo (2)                            |
 | 0.0.3   | 22/04/2025 | Adrián, Yasser, Amir | Desarrollo Capítulo (3)                       |
-| 0.0.4   | 25/04/2025| Adrían, Elvia, Amir, Jesús    | Desarrollo Capítulo (4)  |
+| 0.0.4   | 25/04/2025| Adrían, Amir, Jesús    | Desarrollo Capítulo (4)  |
 | 0.0.5   | 26/04/2025 | Yasser, Amir              | Desarrollo Capítulo (5)                             | 
 
 </center>
@@ -53,21 +52,28 @@ Organización: https://github.com/orgs/Frock-WEB/repositories
 
 Landing Page: https://frock-web.github.io/LandingFrock/
 
-TB1: El equipo entero participó en el desarrollo del sistema, asignando las tareas de manera equitativa entre todos. También trabajamos juntos en aspectos esenciales, como las entrevistas con usuarios y el diseño de la página de inicio. Este método integral y colaborativo nos permitió asegurar calidad y eficiencia durante todas las fases del proyecto.  
+FrontEnd: https://github.com/Frock-WEB/Frock-FrontEnd
+
+Backend: https://github.com/Frock-WEB/Frock-back-end
+
+TB2: El equipo entero participó en el desarrollo del sistema, asignando las tareas de manera equitativa entre todos. También trabajamos juntos en aspectos esenciales, como las entrevistas con usuarios y el diseño de la página de inicio. Este método integral y colaborativo nos permitió asegurar calidad y eficiencia durante todas las fases del proyecto.  
 
 * Cada miembro redactó y organizó sus contenidos en formato Markdown, haciendo commits para garantizar el progreso en el repositorio.
 * Se crearon los artefactos necesarios usando las herramientas recomendadas y se obtuvieron enlaces de imagen desde la carpeta "assets" en la rama develop del repositorio del informe.
-* Se programaron reuniones para coordinar el avance de los elementos del informe y comunicar los logros del Sprint 1, centrado en la página de inicio.  
+* Se programaron reuniones para coordinar el avance de los elementos del informe y comunicar los logros del Sprint 3, centrado en la página de inicio.  
 
 <img src="./assets/Insight.png" alt="collaboration insights sprint1" style="width: 600px"/>
 
-# Student Outcome
-El curso contribuye al cumplimiento del **Student Outcome ABET:ABET – EAC - Student Outcome 5** Criterio: La capacidad de funcionar efectivamente en un equipo cuyos miembros juntos proporcionan liderazgo, crean un entorno de colaboración e inclusivo, establecen objetivos, planifican tareas y cumplen objetivos.
+# Student Outcome ABET
+
+El curso contribuye al cumplimiento del **Student Outcome ABET:ABET – EAC - Student Outcome 5** 
+
+**Criterio:** La capacidad de funcionar efectivamente en un equipo cuyos miembros juntos proporcionan liderazgo, crean un entorno de colaboración e inclusivo, establecen objetivos, planifican tareas y cumplen objetivos.
 
 | Criterio Específico | Acciones Realizadas | Conclusiones |
 |---------------------|---------------------|--------------|
-| Trabaja en equipo para proporcionar liderazgo en forma conjunta | **TB1:**<br>**Yasser Rentería Palacios:** Coordinó las reuniones y asignó responsables para los módulos principales.<br>**Adrian Valerio García:** Propuso soluciones técnicas para integrar el diseño UX en el proyecto.<br>**Elvia Marcela Rodríguez Villa:** Apoyó en la distribución de tareas de documentación y control de avances.<br>**Amir Gabriel Castro Sanchez:** Lideró la planificación de la estructura del backend con enfoque de Domain Driven Design.<br>**Jesús Iván Castillo Vidal:** Supervisó el progreso del proyecto y dio retroalimentación continua para mantener el enfoque en los objetivos. | Se logró establecer un liderazgo compartido entre los miembros del equipo, facilitando la coordinación de tareas y la integración de las distintas partes del proyecto. |
-| Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos | **TB1:**<br>**Yasser Rentería Palacios:** Promovió la participación de todos los integrantes en las decisiones importantes.<br>**Adrian Valerio García:** Fomentó un ambiente inclusivo proponiendo dinámicas para considerar todas las opiniones.<br>**Elvia Marcela Rodríguez Villa:** Ayudó a establecer metas semanales claras y realistas.<br>**Amir Gabriel Castro Sanchez:** Planificó y ajustó tareas para respetar los tiempos de entrega.<br>**Jesús Iván Castillo Vidal:** Motivó al equipo a mantener el compromiso hasta la finalización del reporte y la landing page. | Se creó un ambiente de colaboración efectiva e inclusiva, cumpliendo las metas planteadas para cada fase del proyecto, desde el análisis de dominio hasta la entrega del producto final. |
+| Trabaja en equipo para proporcionar liderazgo en forma conjunta | **TB2:**<br>**Yasser Rentería Palacios:** Coordinó las reuniones del equipo, lideró la implementación del frontend con Angular y estableció los estándares de desarrollo para la interfaz de usuario.<br>**Adrian Valerio García:** Propuso soluciones técnicas para la arquitectura del sistema, lideró el diseño de la base de datos y coordinó la integración entre frontend y backend.<br>**Amir Gabriel Castro Sanchez:** Lideró la implementación del backend con .NET Core, estableció la arquitectura de APIs RESTful y supervisó la implementación de los patrones de diseño.<br>**Jesús Iván Castillo Vidal:** Supervisó el progreso técnico del proyecto, coordinó las pruebas de integración y lideró las revisiones de código para mantener la calidad del desarrollo. | Se logró establecer un liderazgo técnico compartido entre los miembros del equipo, donde cada integrante lideró aspectos específicos del desarrollo (frontend, backend, base de datos, testing), facilitando la coordinación de tareas técnicas complejas. |
+| Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos | **TB2:**<br>**Yasser Rentería Palacios:** Implementó las funcionalidades del frontend de manera colaborativa, estableció metas de desarrollo por sprints y promovió la revisión conjunta del código Angular.<br>**Adrian Valerio García:** Fomentó un ambiente inclusivo en las decisiones de arquitectura, planificó la estructura de la base de datos considerando las necesidades de todos los módulos y estableció objetivos de rendimiento.<br>**Amir Gabriel Castro Sanchez:** Planificó y desarrolló los endpoints del backend de forma modular, estableció metas de desarrollo de APIs y ajustó tareas para cumplir con los requerimientos funcionales.<br>**Jesús Iván Castillo Vidal:** Motivó al equipo durante el desarrollo, estableció objetivos de calidad de código, planificó las pruebas de integración y aseguró el cumplimiento de los plazos de entrega técnica. | Se creó un ambiente de colaboración técnica efectiva e inclusiva, donde cada miembro contribuyó desde su expertise (desarrollo frontend, backend, base de datos, testing), cumpliendo las metas técnicas planteadas para cada sprint y logrando la integración exitosa de todos los componentes del sistema. |
 
 
 ## Table of Contents
