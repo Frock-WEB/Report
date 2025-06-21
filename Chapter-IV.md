@@ -461,7 +461,7 @@ Esta clase representa itinerarios que agrupan múltiples rutas.
 
 ---
 
-## 11. Clase StepRoute
+## 11. Clase StopsRoute
 Esta clase representa los pasos o paradas de una ruta específica.
 
 ### Atributos
