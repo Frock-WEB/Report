@@ -244,23 +244,23 @@ Los esquemas de contenedores ilustran los distintos componentes del sistema, tal
 ### 4.6.1. Software Architecture Context Diagram.
 El diagrama de contexto del sistema muestra la relación entre el sistema y los actores externos, proporcionando una visión general de la arquitectura del sistema y sus interacciones con el entorno externo.
 
-![Software Architecture Context Diagram](assets/ContextN.png)
+![Software Architecture Context Diagram](assets/ContextN.PNG)
 
 ### 4.6.2. Software Architecture Container Diagrams.
 Los esquemas de contenedores ilustran las distintas partes que conforman el sistema, tales como aplicaciones en línea, bases de datos, microservicios y la forma en que interactúan entre ellos. Estos esquemas ofrecen una panorámica detallada de la arquitectura del sistema, resaltando las obligaciones de cada contenedor y sus relaciones entre sí.
 
-![Software Architecture Container Diagram](assets/ContainerN.png)
+![Software Architecture Container Diagram](assets/ContainerN.PNG)
 
 ### 4.6.3. Software Architecture Components Diagrams.
 En esta sección, se presentan los diagramas de componentes de la arquitectura de software. Estos diagramas detallan los diferentes componentes que conforman el sistema, sus responsabilidades y cómo interactúan entre sí.
 
 #### Diagrama de componentes del Frontend
 
-![Analytics](assets/ComponentsF.png)
+![Analytics](assets/ComponentsF.PNG)
 
 #### Diagrama de componentes del Backend
 
-![Control](assets/ComponentsB.png)
+![Control](assets/ComponentsB.PNG)
 
 ## 4.7. Software Object-Oriented Design.
 ### 4.7.1. Class Diagrams.
