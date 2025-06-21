@@ -1150,6 +1150,10 @@ Implementar validación en tiempo real con feedback inmediato, manteniendo un ba
 
 ## Video About-the-Team
 
+https://www.youtube.com/watch?v=RsBVAj3SiI0
+
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214130_upc_edu_pe/EdR4SvoK68JLsjEFGX0YgrcBTxhpodP4YsOjh0xjfuCsFg?e=FhMGil&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
 # Bibliografía  
 
 Jansen, S. M. (2019). *Practical Domain-Driven Design in Enterprise Java: Using Jakarta EE, NoSQL Databases, and 
@@ -1199,5 +1203,6 @@ Link de la Organización FROCK: https://github.com/Frock-WEB
 |-------------------------------|---------------------------------------------------------|
 | FROCK Project Report     | https://github.com/Frock-WEB/Report |
 | FROCK Landing Page       | https://github.com/Frock-WEB/LandingFrock  |
-| FROCK FrontEnd           | https://deft-tapioca-c27a9c.netlify.app/   |
+| FROCK FrontEnd           | https://github.com/Frock-WEB/Frock-FrontEnd   |
+| FROCK Backend           | https://github.com/Frock-WEB/Frock-back-end   |
 
