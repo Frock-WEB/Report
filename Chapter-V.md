@@ -770,8 +770,8 @@ La meta de este sprint fue la implementación del FrontEnd de nuestra pagina web
 
 ![insights](./assets/Insight.png)
 
-### 5.2.3.	Sprint 3
-#### 5.2.3.1.	Sprint Planning 3.
+### 5.3.3.	Sprint 3
+#### 5.3.3.1.	Sprint Planning 3.
 
 | Sprint # | Sprint 3 |
 |----------|----------|
@@ -787,7 +787,7 @@ La meta de este sprint fue la implementación del FrontEnd de nuestra pagina web
 | Sprint 3 Velocity | - |
 | Sum of story points | - |
 
-#### 5.2.3.2.   Aspect Leaders and Collaborators.
+#### 5.3.3.2.   Aspect Leaders and Collaborators.
 
 | Team Member (Last Name, First Name) | GitHub Username | Diseño de Arquitectura Backend | Implementación de Autenticación | Desarrollo de APIs REST | Diseño de Base de Datos | Implementación Frontend | Integración de Servicios | Gestión de Estados | Testing y Validación | Documentación Técnica | Optimización de Performance |
 |--------------------------------------|-----------------|---------|---------|---------|---------|---------|---------|---------|---------|---------|----------|
@@ -798,26 +798,39 @@ La meta de este sprint fue la implementación del FrontEnd de nuestra pagina web
 
 
 
-#### 5.2.3.3.	Sprint Backlog 3.
+#### 5.3.3.3.	Sprint Backlog 3.
 
-| User Story |                                      | Work-Item / Task |                                        |                                                                     |                      |               |                                                |
-| ---------- | ------------------------------------ | ---------------- | -------------------------------------- | ------------------------------------------------------------------- | -------------------- | ------------- | ---------------------------------------------- |
-| Id         | Title                                | Id               | Title                                  | Description                                                         | Estimation (Hours)   | Assigned To   | Status (To-do / In-Process / To-Review / Done) |
-| ----       | -------                              | ----             | ------                                 | -------------                                                       | -------------------- | ------------- | -----------------------------------------
+| User Story ID | User Story Title | Task ID | Task Title | Task Description | Estimation (Hours) | Assigned To | Status |
+|:-------------:|:----------------:|:-------:|:----------:|:----------------:|:------------------:|:-----------:|:------:|
+| US26 | Registro de usuario | T01 | Diseño de formulario de registro | Crear la interfaz del formulario de registro | 3 | Adrian | Done |
+| US27 | Iniciar sesión | T02 | Diseño de formulario de login | Crear la interfaz del formulario de inicio de sesión | 2 | Adrian | Done |
+| US28 | Cerrar sesión | T03 | Implementar función de logout | Desarrollar la funcionalidad para cerrar sesión | 2 | Adrian | Done |
+| US29 | Editar perfil de usuario | T04 | Formulario de edición de perfil | Crear interfaz para editar datos del usuario | 4 | Adrian | Done |
+| US30 | Registrar datos de empresa | T05 | Formulario de registro de empresa | Crear interfaz para registrar datos de la empresa | 5 | Yasser | Done |
+| US31 | Editar información de empresa | T06 | Edición de datos empresariales | Desarrollar funcionalidad para editar información de empresa | 4 | Yasser | Done |
+| US32 | Crear paradero | T07 | Formulario de creación de paradero | Implementar interfaz para crear nuevos paraderos | 4 | Amir | Done |
+| US33 | Ver lista de paraderos | T08 | Interfaz de listado de paraderos | Crear vista para mostrar todos los paraderos | 3 | Amir | Done |
+| US34 | Editar paradero | T09 | Formulario de edición de paradero | Desarrollar funcionalidad para editar paraderos existentes | 3 | Amir | Done |
+| US35 | Eliminar paradero | T10 | Función de eliminación de paradero | Implementar funcionalidad para eliminar paraderos | 2 | Amir | Done |
+| US36 | Crear ruta | T11 | Formulario de creación de ruta | Crear interfaz para establecer nuevas rutas | 5 | Jesus | Done |
+| US37 | Ver lista de rutas | T12 | Interfaz de listado de rutas | Desarrollar vista para mostrar todas las rutas | 3 | Jesus | Done |
+| US38 | Editar ruta | T13 | Formulario de edición de ruta | Implementar funcionalidad para modificar rutas existentes | 4 | Jesus | Done |
+| US39 | Eliminar ruta | T14 | Función de eliminación de ruta | Desarrollar funcionalidad para eliminar rutas | 3 | Jesus | Done |
+| US40 | Configurar horarios de ruta | T15 | Interfaz de configuración de horarios | Crear sistema para establecer horarios de las rutas | 4 | Jesus | Done |
 
 
-#### 5.2.3.4.	Development Evidence for Sprint Review.
+#### 5.3.3.4.	Development Evidence for Sprint Review.
 
 Durante el Sprint 3, el equipo concentró sus esfuerzos en el desarrollo integral de la aplicación web ChapaTuRuta, implementando tanto el nuevo frontend con mejoras visuales significativas como el avance sustancial del backend. Se estableció exitosamente la conexión entre ambos componentes, permitiendo una comunicación fluida entre la interfaz de usuario y los servicios del servidor.
 El frontend desarrollado presenta una interfaz moderna y responsive que facilita la búsqueda de rutas de transporte, la gestión de empresas y la administración de paradas, mientras que el backend implementa endpoints REST robustos para el manejo de datos. Adicionalmente, se actualizaron los diagramas de base de datos y arquitectura C4 para reflejar las mejoras en el sistema.
 Durante este sprint se realizaron pruebas de integración para validar la correcta comunicación entre frontend y backend, así como pruebas de usabilidad para asegurar una experiencia de usuario óptima en las funcionalidades implementadas.
 
-#### 5.2.3.5.	Execution Evidence for Sprint Review.
+#### 5.3.3.5.	Execution Evidence for Sprint Review.
 
 Tras finalizar el Sprint 3, hemos logrado implementar exitosamente la nueva versión del frontend de ChapaTuRuta con mejoras significativas en la experiencia visual y de interacción del usuario. Paralelamente, se completó el desarrollo de componentes clave del backend y se estableció la conexión integral entre ambas capas de la aplicación. Los diagramas de base de datos y arquitectura C4 fueron actualizados para reflejar la evolución del sistema.
 Aunque aún existen optimizaciones por realizar en la comunicación entre servicios y algunos aspectos de la interfaz de usuario, ya es posible visualizar y utilizar gran parte de las funcionalidades core del sistema de gestión de transporte, incluyendo la búsqueda de rutas, gestión de empresas y administración de paradas. A continuación, te mostramos capturas que reflejan los avances alcanzados hasta el momento en esta iteración del desarrollo.
 
-#### 5.2.3.6.	Services Documentation Evidence for Sprint Review.
+#### 5.3.3.6.	Services Documentation Evidence for Sprint Review.
 
 Tras finalizar el Sprint 3, hemos logrado implementar los endpoints principales de nuestra API backend, estableciendo una base sólida para la comunicación entre el frontend y la base de datos. Durante este sprint nos enfocamos en desarrollar la funcionalidad core del sistema, implementando los bounded contexts de Stops, Companies y Geographic con sus respectivos controladores y servicios. A continuación, presentamos la evidencia de los avances alcanzados durante este período de desarrollo.
 
@@ -834,9 +847,9 @@ Tras finalizar el Sprint 3, hemos logrado implementar los endpoints principales 
 ![paraderos](./assets/SStop.PNG)
 
 
-#### 5.2.3.7.	Software Deployment Evidence for Sprint Review.
+#### 5.3.3.7.	Software Deployment Evidence for Sprint Review.
 
-#### 5.2.3.8.	Team Collaboration Insights during Sprint.
+#### 5.3.3.8.	Team Collaboration Insights during Sprint.
 
 ![paraderos](./assets/Contributors.PNG)
 
