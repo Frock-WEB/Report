@@ -853,6 +853,47 @@ Tras finalizar el Sprint 3, hemos logrado implementar los endpoints principales 
 
 ## Conclusiones y Recomendaciones
 
+## Conclusiones del Sprint 3
+
+### Logros Alcanzados
+- **API Backend**: Se implementaron exitosamente los endpoints principales para los bounded contexts de Stops, Companies y Geographic
+- **Arquitectura**: La estructura de la API sigue buenas prácticas REST y principios de DDD
+- **Funcionalidad Core**: Las operaciones CRUD básicas están operativas y permiten la gestión fundamental del sistema
+
+### Áreas de Mejora Identificadas
+- **Validación de Datos**: Los endpoints carecen de validación robusta de entrada
+- **Manejo de Errores**: No hay un sistema consistente de respuestas de error
+- **Integración Frontend**: Falta conectar la API con la interfaz de usuario
+- **Optimización**: Algunos endpoints podrían necesitar mejoras de rendimiento
+
+## Recomendaciones para Sprint 4
+
+### Prioridades Altas
+1. **Implementar Validación de Datos**
+   - Agregar validaciones en todos los endpoints POST y PUT
+   - Validar formatos de ID, nombres y datos requeridos
+   - Retornar mensajes de error claros
+
+2. **Manejo Consistente de Errores**
+   - Estandarizar códigos de respuesta HTTP
+   - Crear estructura uniforme para respuestas de error
+   - Implementar logging básico
+
+3. **Integración Frontend-Backend**
+   - Conectar la Landing Page con los endpoints de la API
+   - Implementar llamadas HTTP desde el frontend
+   - Mostrar datos reales en lugar de contenido estático
+
+### Prioridades Medias
+4. **Optimización de Rendimiento**
+   - Implementar paginación en endpoints que retornan listas
+   - Optimizar consultas de búsqueda por localidad y nombre
+   - Agregar filtros adicionales para mejorar la experiencia
+
+5. **Documentación API**
+   - Completar documentación con ejemplos de request/response
+   - Agregar códigos de error posibles
+
 ## Video About-the-Team
 
 # Bibliografía  
