@@ -808,7 +808,14 @@ La meta de este sprint fue la implementación del FrontEnd de nuestra pagina web
 
 #### 5.2.3.4.	Development Evidence for Sprint Review.
 
+Durante el Sprint 3, el equipo concentró sus esfuerzos en el desarrollo integral de la aplicación web ChapaTuRuta, implementando tanto el nuevo frontend con mejoras visuales significativas como el avance sustancial del backend. Se estableció exitosamente la conexión entre ambos componentes, permitiendo una comunicación fluida entre la interfaz de usuario y los servicios del servidor.
+El frontend desarrollado presenta una interfaz moderna y responsive que facilita la búsqueda de rutas de transporte, la gestión de empresas y la administración de paradas, mientras que el backend implementa endpoints REST robustos para el manejo de datos. Adicionalmente, se actualizaron los diagramas de base de datos y arquitectura C4 para reflejar las mejoras en el sistema.
+Durante este sprint se realizaron pruebas de integración para validar la correcta comunicación entre frontend y backend, así como pruebas de usabilidad para asegurar una experiencia de usuario óptima en las funcionalidades implementadas.
+
 #### 5.2.3.5.	Execution Evidence for Sprint Review.
+
+Tras finalizar el Sprint 3, hemos logrado implementar exitosamente la nueva versión del frontend de ChapaTuRuta con mejoras significativas en la experiencia visual y de interacción del usuario. Paralelamente, se completó el desarrollo de componentes clave del backend y se estableció la conexión integral entre ambas capas de la aplicación. Los diagramas de base de datos y arquitectura C4 fueron actualizados para reflejar la evolución del sistema.
+Aunque aún existen optimizaciones por realizar en la comunicación entre servicios y algunos aspectos de la interfaz de usuario, ya es posible visualizar y utilizar gran parte de las funcionalidades core del sistema de gestión de transporte, incluyendo la búsqueda de rutas, gestión de empresas y administración de paradas. A continuación, te mostramos capturas que reflejan los avances alcanzados hasta el momento en esta iteración del desarrollo.
 
 #### 5.2.3.6.	Services Documentation Evidence for Sprint Review.
 
