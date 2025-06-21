@@ -776,12 +776,14 @@ La meta de este sprint fue la implementación del FrontEnd de nuestra pagina web
 {Texto Sobre Lo principal de este Sprint}
 
 #### 5.2.3.2.   Aspect Leaders and Collaborators.
-| Team Member (Last Name, First Name)    | GitHub Username    | Item 1 | Item 2 | Item 3 | Item 4 | Item 5 | Item 6 | Item 7 | Item 8 | Item 9 | Item 10 |
-|----------------------------------------|--------------------|--------------------------------------------|---------------------------------------|--------------------------------------|------------------------------------|--------------------------------------------|----------------------------------------------|---------------------------------|-------------------------------------------|-------------------------------------------------------------|----------------------------------|
-| Rentería Palacios, Yasser              | Mitawarmi2000      | L                                          | C                                     | C                                    |                                    |                                            | L                                            |                                 | C                                         | L                                                           |                                  |
-| Valerio Garcia, Adrián Emanuel         | adrianvalerio      | C                                          | L                                     |                                      | L                                  |                                            |                                              | C                               | L                                         |                                                             | C                                |
-| Castillo Vidal, Jesús Iván             | Jcdev04            |                                            | C                                     | L                                    | C                                  | L                                          | C                                            |                                 |                                           | C                                                           | L                                |
-| Castro Sanchez, Amir Gabriel           | AmirbarrabajaLeon  | C                                          |                                       | C                                    |                                    | C                                          | L                                            | L                               |                                           |                                                             | C                                |
+
+| Team Member (Last Name, First Name) | GitHub Username | Diseño de Arquitectura Backend | Implementación de Autenticación | Desarrollo de APIs REST | Diseño de Base de Datos | Implementación Frontend | Integración de Servicios | Gestión de Estados | Testing y Validación | Documentación Técnica | Optimización de Performance |
+|--------------------------------------|-----------------|---------|---------|---------|---------|---------|---------|---------|---------|---------|----------|
+| Rentería Palacios, Yasser | Mitawarmi2000 | L | C | C | | | L | | C | L | |
+| Valerio García, Adrián Emanuel | adrianvalerio | C | L | | L | | | C | L | | C |
+| Castillo Vidal, Jesús Iván | Jcdev04 | | C | L | C | L | C | | | C | L |
+| Castro Sanchez, Amir Gabriel | AmirbarrabajaLeon | C | | C | | C | L | L | | | C |
+
 
 
 #### 5.2.3.3.	Sprint Backlog 3.
