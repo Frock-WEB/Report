@@ -841,9 +841,9 @@ Figma Landing Page: https://www.figma.com/design/2mFdwB7QtPM3EPD7y3YD4I/Frock?no
 
 Web Applications User Flow Diagrams: https://www.figma.com/design/2mFdwB7QtPM3EPD7y3YD4I/Frock?node-id=9-2&p=f
 
-Web Applications Mock-ups: https://www.figma.com/design/2mFdwB7QtPM3EPD7y3YD4I/Frock?node-id=9-2&p=f
+Web Applications Mock-ups: https://www.figma.com/design/a6UNC3Cg0REiH1teRZUcrn/Frock--Copy-?node-id=9-2
 
-Web Application Prototyting: https://www.figma.com/design/2mFdwB7QtPM3EPD7y3YD4I/Frock?node-id=9-2&p=f
+Web Application Prototyting: https://www.figma.com/design/a6UNC3Cg0REiH1teRZUcrn/Frock--Copy-?node-id=9-2
 
 ### Anexo C. Github Repositories
 
