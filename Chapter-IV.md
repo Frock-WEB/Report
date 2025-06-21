@@ -264,23 +264,23 @@ En esta sección, se presentan los diagramas de componentes de la arquitectura d
 
 ## 4.7. Software Object-Oriented Design.
 ### 4.7.1. Class Diagrams.
-#### Driver Diagram
+#### User Diagram
 
-![driver](assets/driver-diagram.png)
+![driver](assets/UsersD.PNG)
 
-Este diagrama gestiona los datos de los conductores, asegurando que su información esté verificada. Incluye campos para el nombre, número de licencia, y estado de la licencia, además de un campo para verificar si el conductor tiene antecedentes criminales (criminalRecord). También se tiene en cuenta el estado de salud del conductor (healthStatus), asegurando que estén aptos para conducir. La relación con los vehículos asegura que cada conductor esté vinculado a un vehículo específico.
+La clase User representa tanto a pasajeros como a gestores de empresas de transporte en el sistema. Contiene información básica como nombre, email, contraseña encriptada y rol, además de funcionalidades para autenticación, actualización de perfil y cambio de contraseña. Es la entidad central que controla el acceso al sistema y establece las jerarquías de usuarios, permitiendo que los gestores administren empresas mientras los pasajeros utilizan los servicios de búsqueda y reserva de rutas.
 
-#### Route Diagram
+#### Routes Diagram
 
-![Route](assets/route-diagram.png)
+![Route](assets/RoutesD.PNG)
 
-Este diagrama representa las rutas de los vehículos y las paradas a lo largo de esas rutas. La tabla Route contiene la información de la ruta (origen, destino, distancia), y la tabla Stop asocia cada parada a una ruta específica. Las paradas están vinculadas a sus rutas correspondientes para asegurar que cada vehículo pueda seguir el recorrido adecuado.
+La clase Route define los servicios de transporte disponibles con sus características operativas como precio, duración estimada del viaje y la posibilidad de crear rutas compuestas mediante referencias a rutas padre. Proporciona funcionalidades para gestionar horarios, obtener las paradas que conecta en orden secuencial y calcular tiempos de llegada estimados. Es la entidad que representa el producto principal del sistema: el servicio de transporte entre diferentes ubicaciones.
 
-#### Monitoring Diagram
+#### Company and Stops Diagram
 
-![Monitoring](assets/monitoring-diagram.png)
+![Monitoring](assets/CompStopD.PNG)
 
-Este diagrama describe la estructura del sistema para monitorear vehículos. Incluye tablas para los vehículos, la fábrica de vehículos, y el servicio de monitoreo de vehículos, que es responsable de gestionar y actualizar el estado de los vehículos. Además, se muestra la relación entre las entidades como los vehículos y la fábrica, y se garantiza que todos los vehículos estén monitoreados correctamente.
+Las clases Company y Stop forman el núcleo operativo de la infraestructura de transporte. Company representa las empresas registradas en el sistema, cada una asociada a un gestor específico, almacenando información comercial como nombre y logotipo, mientras que Stop representa los puntos físicos donde operan estos servicios, incluyendo terminales y paradas con información detallada de ubicación, dirección, coordenadas de Google Maps y datos de contacto. Ambas entidades están estrechamente relacionadas ya que cada parada pertenece a una empresa específica, permitiendo que los gestores administren tanto sus rutas como la infraestructura física donde operan, creando un ecosistema completo de servicios de transporte bajo una marca comercial unificada.
 
 ### 4.7.2. Class Dictionary.
 # Sistema de Gestión de Transporte - Diccionario de Clases
