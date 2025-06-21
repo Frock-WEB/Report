@@ -363,7 +363,7 @@ Esta clase representa una parada o terminal de transporte.
 ---
 
 ## 5. Clase Schedule
-Esta clase representa los horarios de operación de una ruta específica.
+Esta clase representa los horarios de operación de una ruta en específica.
 
 ### Atributos
 - **`id`**: Identificador único del horario
