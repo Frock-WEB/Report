@@ -283,124 +283,229 @@ Este diagrama representa las rutas de los vehículos y las paradas a lo largo de
 Este diagrama describe la estructura del sistema para monitorear vehículos. Incluye tablas para los vehículos, la fábrica de vehículos, y el servicio de monitoreo de vehículos, que es responsable de gestionar y actualizar el estado de los vehículos. Además, se muestra la relación entre las entidades como los vehículos y la fábrica, y se garantiza que todos los vehículos estén monitoreados correctamente.
 
 ### 4.7.2. Class Dictionary.
-### 1. Clase Vehicle
-Esta clase representa un vehículo en el sistema, que podría ser un bus o una minivan en el contexto del sistema de transporte colectivo.
+# Sistema de Gestión de Transporte - Diccionario de Clases
 
-**Atributos:**
-- `id`: Identificador único del vehículo.
-- `ownerId`: Identificador del propietario (conductor o empresa).
-- `status`: Estado actual del vehículo.
-- `lastMaintenance`: Fecha del último mantenimiento.
+## 1. Clase User
+Esta clase representa un usuario en el sistema, que puede ser un pasajero o un gestor de empresa de transporte.
 
-**Métodos:**
-- `Vehicle(id, ownerId, status, lastMaintenance)`: Constructor para inicializar el vehículo.
-- `updateStatus(newStatus)`: Actualiza el estado del vehículo.
-- `scheduleMaintenance(date)`: Programa el siguiente mantenimiento.
+### Atributos
+- **`id`**: Identificador único del usuario
+- **`name`**: Nombre completo del usuario
+- **`email`**: Dirección de correo electrónico del usuario
+- **`password`**: Contraseña encriptada del usuario
+- **`role`**: Rol del usuario en el sistema (pasajero, gestor)
+- **`created_at`**: Fecha y hora de registro del usuario
+- **`fk_user_id`**: Identificador del usuario superior (para jerarquías)
 
----
-
-### 2. Clase VehicleFactory
-Fábrica para crear vehículos con atributos definidos.
-
-**Métodos:**
-- `createItem(id, ownerId, status, lastMaintenance)`: Crea y devuelve una nueva instancia de Vehicle.
+### Métodos
+- **`User(name, email, password, role)`**: Constructor para crear un nuevo usuario
+- **`updateProfile(name, email)`**: Actualiza la información del perfil del usuario
+- **`changePassword(newPassword)`**: Cambia la contraseña del usuario
+- **`authenticate(email, password)`**: Autentica las credenciales del usuario
 
 ---
 
-### 3. Clase VehicleMonitoringService
-Servicio central para monitorear los vehículos, siguiendo el patrón singleton.
+## 2. Clase Company
+Esta clase representa una empresa de transporte registrada en el sistema.
 
-**Atributos:**
-- `instance`: Instancia única del VehicleMonitoringService.
+### Atributos
+- **`id`**: Identificador único de la empresa
+- **`name`**: Nombre comercial de la empresa de transporte
+- **`logo_url`**: URL del logotipo de la empresa
+- **`fk_user_id`**: Identificador del gestor propietario de la empresa
 
-**Métodos:**
-- `getAllVehicles()`: Devuelve una lista de todos los vehículos registrados.
-- `getVehicleById(id)`: Recupera un vehículo por su ID.
-- `addVehicle(vehicle)`: Añade un nuevo vehículo al sistema.
-- `logMaintenance(id, date)`: Registra las acciones de mantenimiento de un vehículo.
-
----
-
-### 4. Clase Observer
-Define el contrato para observar cambios en el estado de los vehículos.
-
-**Métodos:**
-- `updateStatus(vehicle)`: Actualiza el estado del vehículo cuando ocurre un cambio.
+### Métodos
+- **`Company(name, logo_url, fk_user_id)`**: Constructor para registrar una nueva empresa
+- **`updateCompanyInfo(name, logo_url)`**: Actualiza la información de la empresa
+- **`getRoutes()`**: Obtiene todas las rutas operadas por la empresa
+- **`getStops()`**: Obtiene todas las paradas gestionadas por la empresa
 
 ---
 
-### 5. Clase VehicleStatusLogger
-Registra los cambios en el estado de los vehículos (implementa la interfaz Observer).
+## 3. Clase Route
+Esta clase representa una ruta de transporte con sus características principales.
 
-**Métodos:**
-- `update(vehicle)`: Registra los cambios que ocurren en el vehículo.
+### Atributos
+- **`id`**: Identificador único de la ruta
+- **`price`**: Precio del pasaje para esta ruta
+- **`duration_min`**: Duración estimada del viaje en minutos
+- **`fk_id_route`**: Referencia a ruta padre (para rutas compuestas)
 
----
-
-### 6. Clase Route
-Representa una ruta tomada por los vehículos.
-
-**Atributos:**
-- `id`: Identificador único de la ruta.
-- `origin`: Punto de inicio de la ruta.
-- `destination`: Punto final de la ruta.
-- `distance`: Distancia de la ruta.
-- `estimatedTime`: Tiempo estimado para completar la ruta.
-
-**Métodos:**
-- `addStop(stop)`: Añade una parada a la ruta.
-- `getRouteInfo()`: Devuelve toda la información de la ruta.
+### Métodos
+- **`Route(price, duration_min)`**: Constructor para crear una nueva ruta
+- **`updateRouteInfo(price, duration_min)`**: Actualiza información de la ruta
+- **`getSchedules()`**: Obtiene todos los horarios disponibles para la ruta
+- **`getStops()`**: Obtiene todas las paradas de la ruta en orden
+- **`calculateEstimatedArrival(departure_time)`**: Calcula hora estimada de llegada
 
 ---
 
-### 7. Clase Stop
-Representa una parada a lo largo de una ruta.
+## 4. Clase Stop
+Esta clase representa una parada o terminal de transporte.
 
-**Atributos:**
-- `id`: Identificador único de la parada.
-- `location`: Ubicación geográfica de la parada.
-- `routeId`: Identificador de la ruta a la que pertenece la parada.
+### Atributos
+- **`id`**: Identificador único de la parada
+- **`name`**: Nombre de la parada o terminal
+- **`google_maps_url`**: URL de Google Maps para la ubicación
+- **`image_url`**: URL de imagen representativa de la parada
+- **`phone`**: Número de teléfono de contacto de la parada
+- **`fk_company`**: Identificador de la empresa que gestiona la parada
+- **`address`**: Dirección física de la parada
+- **`reference`**: Referencias adicionales para ubicar la parada
+- **`fk_id_locality`**: Identificador de la localidad donde se ubica
 
-**Métodos:**
-- `getStopInfo()`: Devuelve información sobre la parada.
-- `isAvailable()`: Verifica si la parada está disponible para que el vehículo llegue.
-
----
-
-### 8. Clase Order
-Representa un pedido realizado por un cliente.
-
-**Atributos:**
-- `id`: Identificador único del pedido.
-- `customerId`: Cliente que hizo el pedido.
-- `status`: Estado del pedido.
-- `createdDate`: Fecha de creación del pedido.
-
-**Métodos:**
-- `createOrder(customerId, status)`: Crea un nuevo pedido para el cliente.
+### Métodos
+- **`Stop(name, address, phone, fk_company, fk_id_locality)`**: Constructor para crear parada
+- **`updateStopInfo(name, address, phone)`**: Actualiza información de la parada
+- **`getLocation()`**: Obtiene coordenadas geográficas de la parada
+- **`getRoutesFromStop()`**: Obtiene rutas que parten desde esta parada
 
 ---
 
-### 9. Clase TransportService
-Gestiona la creación y recuperación de pedidos dentro del sistema.
+## 5. Clase Schedule
+Esta clase representa los horarios de operación de una ruta específica.
 
-**Métodos:**
-- `createOrder(customerId, items)`: Crea un nuevo pedido y lo asocia con ítems de servicio (vehículos, paradas).
-- `getOrderById(id)`: Recupera un pedido específico por su ID.
+### Atributos
+- **`id`**: Identificador único del horario
+- **`day`**: Día de la semana para este horario
+- **`time_from`**: Hora de inicio del servicio
+- **`time_to`**: Hora de fin del servicio
+- **`is_available`**: Indica si el horario está disponible
+- **`fk_id_route`**: Identificador de la ruta asociada
 
-### 10. Clase VehicleMonitoringService
-Servicio central para monitorear los vehículos, siguiendo el patrón singleton.
+### Métodos
+- **`Schedule(day, time_from, time_to, fk_id_route)`**: Constructor para crear horario
+- **`updateSchedule(time_from, time_to, is_available)`**: Actualiza el horario
+- **`checkAvailability(requested_time)`**: Verifica disponibilidad en hora específica
+- **`toggleAvailability()`**: Activa/desactiva la disponibilidad del horario
 
-**Atributos:**
-- `instance`: Instancia única del VehicleMonitoringService (patrón singleton).
-- `vehicles`: Lista de todos los vehículos monitoreados.
+---
 
-**Métodos:**
-- `getAllVehicles()`: Devuelve una lista de todos los vehículos registrados.
-- `getVehicleById(id)`: Recupera un vehículo por su ID.
-- `addVehicle(vehicle)`: Añade un nuevo vehículo al sistema de monitoreo.
-- `updateVehicleStatus(id, status)`: Actualiza el estado de un vehículo específico.
-- `logMaintenance(id, date)`: Registra el mantenimiento realizado en un vehículo.
+## 6. Clase Locality
+Esta clase representa una localidad dentro de un distrito.
+
+### Atributos
+- **`id`**: Identificador único de la localidad
+- **`name`**: Nombre de la localidad
+- **`fk_id_district`**: Identificador del distrito al que pertenece
+
+### Métodos
+- **`Locality(name, fk_id_district)`**: Constructor para crear localidad
+- **`updateName(name)`**: Actualiza el nombre de la localidad
+- **`getStops()`**: Obtiene todas las paradas ubicadas en esta localidad
+- **`getDistrict()`**: Obtiene información del distrito padre
+
+---
+
+## 7. Clase District
+Esta clase representa un distrito dentro de una provincia.
+
+### Atributos
+- **`id`**: Identificador único del distrito
+- **`name`**: Nombre del distrito
+- **`fk_id_province`**: Identificador de la provincia a la que pertenece
+
+### Métodos
+- **`District(name, fk_id_province)`**: Constructor para crear distrito
+- **`updateName(name)`**: Actualiza el nombre del distrito
+- **`getLocalities()`**: Obtiene todas las localidades del distrito
+- **`getProvince()`**: Obtiene información de la provincia padre
+
+---
+
+## 8. Clase Province
+Esta clase representa una provincia dentro de una región.
+
+### Atributos
+- **`id`**: Identificador único de la provincia
+- **`name`**: Nombre de la provincia
+- **`fk_id_region`**: Identificador de la región a la que pertenece
+
+### Métodos
+- **`Province(name, fk_id_region)`**: Constructor para crear provincia
+- **`updateName(name)`**: Actualiza el nombre de la provincia
+- **`getDistricts()`**: Obtiene todos los distritos de la provincia
+- **`getRegion()`**: Obtiene información de la región padre
+
+---
+
+## 9. Clase Region
+Esta clase representa la división geográfica de mayor nivel en el sistema.
+
+### Atributos
+- **`id`**: Identificador único de la región
+- **`name`**: Nombre de la región
+
+### Métodos
+- **`Region(name)`**: Constructor para crear región
+- **`updateName(name)`**: Actualiza el nombre de la región
+- **`getProvinces()`**: Obtiene todas las provincias de la región
+- **`getFullGeographicHierarchy()`**: Obtiene la jerarquía geográfica completa
+
+---
+
+## 10. Clase Itinerary
+Esta clase representa itinerarios que agrupan múltiples rutas.
+
+### Atributos
+- **`id`**: Identificador único del itinerario
+- **`fk_id_itinerary`**: Referencia a itinerario padre (para itinerarios anidados)
+- **`fk_id_route`**: Identificador de la ruta asociada
+
+### Métodos
+- **`Itinerary(fk_id_route)`**: Constructor para crear itinerario
+- **`addRoute(route_id)`**: Agrega una ruta al itinerario
+- **`removeRoute(route_id)`**: Remueve una ruta del itinerario
+- **`calculateTotalDuration()`**: Calcula duración total del itinerario
+- **`calculateTotalPrice()`**: Calcula precio total del itinerario
+
+---
+
+## 11. Clase StepRoute
+Esta clase representa los pasos o paradas de una ruta específica.
+
+### Atributos
+- **`id`**: Identificador único del paso de ruta
+- **`fk_id_route`**: Identificador de la ruta
+- **`fk_id_stop`**: Identificador de la parada
+
+### Métodos
+- **`StepRoute(fk_id_route, fk_id_stop)`**: Constructor para crear paso de ruta
+- **`updateStopOrder(new_order)`**: Actualiza el orden de la parada en la ruta
+- **`getRouteDetails()`**: Obtiene detalles de la ruta asociada
+- **`getStopDetails()`**: Obtiene detalles de la parada asociada
+
+---
+
+## 12. Clase ItineraryRoute
+Esta clase representa la relación entre itinerarios y rutas.
+
+### Atributos
+- **`id`**: Identificador único de la relación
+- **`fk_id_itinerary`**: Identificador del itinerario
+- **`fk_id_route`**: Identificador de la ruta
+
+### Métodos
+- **`ItineraryRoute(fk_id_itinerary, fk_id_route)`**: Constructor para crear relación
+- **`removeFromItinerary()`**: Remueve la ruta del itinerario
+- **`getItineraryDetails()`**: Obtiene detalles del itinerario
+- **`getRouteDetails()`**: Obtiene detalles de la ruta
+
+---
+
+## Servicios Principales del Sistema
+
+### RouteSearchService
+Servicio especializado para búsqueda y filtrado de rutas disponibles en el sistema.
+
+### ReservationService  
+Servicio encargado de la gestión integral de reservas de pasajeros.
+
+### GeographicService
+Servicio para el manejo de la jerarquía geográfica completa (región → provincia → distrito → localidad).
+
+### CompanyManagementService
+Servicio para la gestión integral de empresas de transporte y todos sus recursos asociados.
 
 ## 4.8. Database Design.
 ### 4.8.1. Database Diagram.
