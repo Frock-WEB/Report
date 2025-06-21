@@ -414,4 +414,4 @@ Servicio central para monitorear los vehículos, siguiendo el patrón singleton.
 
 ## 4.8. Database Design.
 ### 4.8.1. Database Diagram.
-![Database Diagram](assets/database-diagram.png)
+![unnamed-2025-06-20T19_28_39 (1)](https://github.com/user-attachments/assets/7e6c5c6e-8460-4c64-8bce-b09cb415b85e)
