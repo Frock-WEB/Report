@@ -1156,7 +1156,9 @@ https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214130_upc_edu_pe/EdR4SvoK
 
 ## Video About-the-Product
 
-https://upcedupe-my.sharepoint.com/:f:/g/personal/u202214130_upc_edu_pe/EkO3hqC4EYdJqOWPemtSCbIB9wM7Zt1PQAUa_VonTe_GAQ?e=PjkddI
+https://youtu.be/r5nRowPYZQg
+
+https://1drv.ms/v/c/34570f187e95ca87/EUNueEikmkFMjRwszZXow3ABtzawd1F_Tu1-sF3d95rVhQ?e=m3xcAj
 
 # Bibliografía  
 
@@ -1188,6 +1190,8 @@ Vernon, V. (2013). *Implementing domain-driven design.* Addison-Wesley.
 ### Anexo A. Products Deployed.
 
 Landing Page Desplegada: https://frock-web.github.io/LandingFrock/
+
+Backend Frock Desplegado: 
 
 ### Anexo B. Web tools
 
