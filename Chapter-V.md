@@ -1154,6 +1154,10 @@ https://www.youtube.com/watch?v=RsBVAj3SiI0
 
 https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214130_upc_edu_pe/EdR4SvoK68JLsjEFGX0YgrcBTxhpodP4YsOjh0xjfuCsFg?e=FhMGil&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
+## Video About-the-Product
+
+https://upcedupe-my.sharepoint.com/:f:/g/personal/u202214130_upc_edu_pe/EkO3hqC4EYdJqOWPemtSCbIB9wM7Zt1PQAUa_VonTe_GAQ?e=PjkddI
+
 # Bibliografía  
 
 Jansen, S. M. (2019). *Practical Domain-Driven Design in Enterprise Java: Using Jakarta EE, NoSQL Databases, and 
