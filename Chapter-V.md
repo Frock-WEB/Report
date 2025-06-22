@@ -1191,7 +1191,9 @@ Vernon, V. (2013). *Implementing domain-driven design.* Addison-Wesley.
 
 Landing Page Desplegada: https://frock-web.github.io/LandingFrock/
 
-Backend Frock Desplegado: 
+Front Web Applications Desplegado: 
+
+Web Services Desplegado: 
 
 ### Anexo B. Web tools
 
