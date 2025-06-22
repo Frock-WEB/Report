@@ -1195,6 +1195,12 @@ Front Web Applications Desplegado: https://deft-tapioca-c27a9c.netlify.app/
 
 Backend Desplegado: https://frock-back-end-production.up.railway.app/index.html
 
+![66660649-8e68-449b-b418-fe6dadf8df43](https://github.com/user-attachments/assets/abfed1eb-e0a5-4730-b4b4-be2f7c927642)
+
+![be33ceb9-c736-41a1-a059-7a13e22f6c15](https://github.com/user-attachments/assets/446b8491-4523-435d-a2cc-5245d2cc6dac)
+
+![344a5fd2-b135-480b-a579-05eff3c6007c](https://github.com/user-attachments/assets/5ffc96d1-ea11-4f3b-800e-15d589f21558)
+
 ### Anexo B. Web tools
 
 Figma Landing Page: https://www.figma.com/design/2mFdwB7QtPM3EPD7y3YD4I/Frock?node-id=9-2&p=f
