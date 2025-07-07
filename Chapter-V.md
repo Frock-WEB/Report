@@ -868,6 +868,23 @@ Tras finalizar el Sprint 3, hemos logrado implementar los endpoints principales 
 
 ![paraderos](./assets/Contributors.PNG)
 
+### 5.3.4.	Sprint 4
+#### 5.3.4.1.	Sprint Planning 4.
+
+| Sprint # | Sprint 4 |
+|----------|----------|
+| **Sprint Background** | |
+| Date | 2025/07/02 |
+| Time | 09:00 PM |
+| Location | Discord |
+| Prepared by | Adrián Emanuel Valerio García |
+| Attendees (to meeting) | • Yasser Rentería Palacios<br>• Jesús Iván Castillo Vidal<br>• Amir Gabriel Castro Sánchez<br>• Adrián Emanuel Valerio García |
+| Sprint 4 Review Summary | Este fue el último sprint de desarrollo, en el cual se realizaron los ajustes finales, correcciones y validaciones del sistema completo. |
+| Sprint 4 Retrospective Summary | Se concluyó la integración completa de frontend y backend, se cerraron historias pendientes, se implementaron mejoras de UX/UI y se desplegaron los entornos finales. | 
+| Sprint 4 Goal | Finalizar y consolidar la versión estable y funcional de **ChapatuRuta**. Esto incluyó: el pulido de interfaz, correcciones de bugs, cierre de endpoints, pruebas funcionales completas, documentación final y despliegue. Se buscó entregar un producto listo para su uso, alineado con los objetivos iniciales del proyecto. |
+| Sprint 4 Velocity | - |
+| Sum of story points | - |
+
 ## 5.3. Validation Interviews.
 ### 5.3.1. Diseño de Entrevistas.
 
