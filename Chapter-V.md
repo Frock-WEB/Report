@@ -908,7 +908,25 @@ Tras finalizar el Sprint 3, hemos logrado implementar los endpoints principales 
 | US48          | Mejora de experiencia de usuario (UX)    | T57     | Añadir tooltips y placeholders           | Incluir ayudas visuales en formularios y navegación para mayor claridad          | 2                  | Adrián      | Done   |
 | US49          | Validaciones en formularios del cliente  | T58     | Implementar validaciones en tiempo real  | Proveer feedback inmediato al completar formularios de registro y edición        | 2                  | Yasser        | Done   |
 
-#### 5.3.4.4. Development Evidence for Sprint Review.
+#### 5.3.4.4. Technical Stories
+
+| ID     | Título                                              | Descripción técnica                                                                                              | Criterios de Aceptación                                                                                  |
+|--------|-----------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|
+| TS01   | Inicio y cierre de sesión de usuario                | Implementar el sistema de autenticación (login/logout) para permitir el acceso seguro a la plataforma.          | - El sistema debe autenticar usuarios con credenciales válidas.<br>- El cierre de sesión debe ser exitoso. |
+| TS02   | Registro y validación de usuario                    | Crear formularios de registro con validación de campos para nuevos usuarios.                                     | - Mensajes de error claros en campos vacíos o inválidos.<br>- Registro exitoso guarda los datos correctamente. |
+| TS03   | Manejo de errores de navegación                     | Mostrar mensajes de error amigables cuando se falla una acción (página no disponible, carga fallida, etc.).      | - Mensaje claro al fallar carga.<br>- Redirección segura a páginas conocidas.                             |
+| TS04   | Geolocalización de paraderos                        | Integrar APIs de geolocalización para mostrar paraderos cercanos en el mapa.                                     | - Muestra paraderos según ubicación del usuario.<br>- Mensaje si permisos de ubicación son denegados.    |
+| TS05   | Integración de base de datos relacional             | Configurar base de datos para almacenar usuarios, rutas, paraderos y empresas.                                   | - Las operaciones CRUD deben funcionar correctamente para cada entidad.                                   |
+| TS06   | Sistema de notificaciones a conductores             | Enviar notificaciones en tiempo real cuando un pasajero muestra interés en una ruta.                             | - Notificación activa si conductor tiene ruta disponible.<br>- No se envía si están desactivadas.         |
+| TS07   | Gestión de rutas por empresas                       | Permitir a empresas crear, editar y eliminar rutas desde el panel administrativo.                                | - Acciones CRUD deben reflejarse de inmediato.<br>- Validación de campos duplicados o inválidos.          |
+| TS08   | Control de acceso por roles                         | Implementar roles (conductor, gestor de empresa) para restringir o habilitar acceso a ciertas funcionalidades.    | - Usuarios deben acceder solo a lo permitido según su rol.                                                |
+| TS09   | Backend en .NET Core y arquitectura REST            | Diseñar e implementar el backend en .NET Core con APIs RESTful según los principios de clean architecture.       | - Endpoints funcionales, documentados y desacoplados del frontend.                                       |
+| TS10   | CI/CD y despliegue automatizado                     | Configurar pipeline de integración y despliegue automático para frontend y backend.                              | - Cada push a rama principal debe desplegar correctamente.<br>- Logs deben mostrar errores si los hay.    |
+| TS11   | Seguridad de datos del perfil de conductor          | Implementar validación, cifrado y reglas para proteger datos sensibles del conductor.                            | - No se debe mostrar información sensible no autorizada.<br>- Los datos deben estar cifrados donde aplique. |
+
+
+
+#### 5.3.4.5. Development Evidence for Sprint Review.
 
 | Repository      | Branch     | Commit Id | Commit Message                                   | Commit Message Body                                                                                     | Committed   |
 |----------------|------------|-----------|--------------------------------------------------|----------------------------------------------------------------------------------------------------------|-------------|
@@ -921,7 +939,7 @@ Tras finalizar el Sprint 3, hemos logrado implementar los endpoints principales 
 | Frock-FrontEnd | develop    | e26c0c6   | feat(routes-alpha-filter): implement district filter | Filtro por distrito con funcionalidades de búsqueda y borrado                                        | 2025/07/04  |
 | Frock-FrontEnd | develop    | 4fdac05   | refactor: improve login and register pages       | Mejoras visuales y de estructura para login y registro                                                   | 2025/07/03  |
 
-#### 5.3.4.5.	Execution Evidence for Sprint Review.
+#### 5.3.4.6.	Execution Evidence for Sprint Review.
 
 Durante el Sprint 4, se consolidaron todas las funcionalidades de **ChapatuRuta**, incluyendo vistas finales de rutas, formularios pulidos y comportamiento responsive completo. Se corrigieron errores menores, se integraron los endpoints restantes y se realizaron pruebas completas de flujo para cada tipo de usuario.
 
@@ -933,7 +951,7 @@ Durante el Sprint 4, se consolidaron todas las funcionalidades de **ChapatuRuta*
 
 ![Swagger]
 
-#### 5.3.4.6.	Services Documentation Evidence for Sprint Review.
+#### 5.3.4.7.	Services Documentation Evidence for Sprint Review.
 
 Todos los servicios RESTful se encuentran documentados en Swagger, abarcando los bounded contexts principales: **Companies**, **Stops**, **Routes** y **IAM**. Se añadieron descripciones por endpoint, formatos de entrada/salida y códigos de respuesta esperados.
 
@@ -941,9 +959,9 @@ Todos los servicios RESTful se encuentran documentados en Swagger, abarcando los
 
 ![API Swagger]
 
-#### 5.3.4.7.	Software Deployment Evidence for Sprint Review.
+#### 5.3.4.8.	Software Deployment Evidence for Sprint Review.
 
-#### 5.3.4.8.	Team Collaboration Insights during Sprint.
+#### 5.3.4.9.	Team Collaboration Insights during Sprint.
 
 ## 5.4. Validation Interviews.
 ### 5.4.1. Diseño de Entrevistas.
