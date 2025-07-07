@@ -894,6 +894,19 @@ Tras finalizar el Sprint 3, hemos logrado implementar los endpoints principales 
 | Castillo Vidal, Jesús Iván | Jcdev04 | L | C | C | | L | | | C | 
 | Castro Sánchez, Amir Gabriel | AmirbarrabajaLeon | L | | C | L | | C | C |  |
 
+#### 5.3.4.3. Sprint Backlog 4.
+
+| User Story ID | User Story Title                         | Task ID | Task Title                              | Task Description                                                                 | Estimation (Hours) | Assigned To | Status |
+|:-------------:|:----------------------------------------:|:-------:|:----------------------------------------:|:---------------------------------------------------------------------------------:|:------------------:|:-----------:|:------:|
+| US41          | Validaciones Backend                     | T50     | Añadir validaciones a endpoints          | Implementar validaciones robustas para entradas en endpoints POST y PUT          | 3                  | Amir        | Done   |
+| US42          | Manejo de errores en API                 | T51     | Estandarizar respuestas de error         | Crear estructura uniforme de errores y códigos HTTP consistentes                 | 2                  | Adrian      | Done   |
+| US43          | Integración frontend-backend final       | T52     | Conectar frontend a servicios REST       | Realizar integración final entre el frontend y los endpoints backend activos     | 3                  | Amir      | Done   |
+| US44          | Documentación Swagger                    | T53     | Completar documentación de endpoints     | Añadir ejemplos de entrada/salida y códigos de error en Swagger                  | 2                  | Jesus        | Done   |
+| US45          | Testing completo del sistema             | T54     | Pruebas integrales de funcionalidades    | Ejecutar pruebas manuales del sistema completo como cliente y empresa            | 4                  | Todos       | Done   |
+| US46          | Optimización de rendimiento              | T55     | Paginación y filtrado en endpoints       | Añadir paginación y filtros a endpoints que retornan listas                      | 3                  | Jesús       | Done   |
+| US47          | Ajuste responsive final                  | T56     | Mejorar diseño mobile-first              | Validar y ajustar el diseño responsive en todas las vistas críticas              | 2                  | Yasser      | Done   |
+| US48          | Mejora de experiencia de usuario (UX)    | T57     | Añadir tooltips y placeholders           | Incluir ayudas visuales en formularios y navegación para mayor claridad          | 2                  | Adrián      | Done   |
+| US49          | Validaciones en formularios del cliente  | T58     | Implementar validaciones en tiempo real  | Proveer feedback inmediato al completar formularios de registro y edición        | 2                  | Yasser        | Done   |
 
 ## 5.4. Validation Interviews.
 ### 5.4.1. Diseño de Entrevistas.
