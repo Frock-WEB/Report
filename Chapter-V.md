@@ -908,6 +908,43 @@ Tras finalizar el Sprint 3, hemos logrado implementar los endpoints principales 
 | US48          | Mejora de experiencia de usuario (UX)    | T57     | Añadir tooltips y placeholders           | Incluir ayudas visuales en formularios y navegación para mayor claridad          | 2                  | Adrián      | Done   |
 | US49          | Validaciones en formularios del cliente  | T58     | Implementar validaciones en tiempo real  | Proveer feedback inmediato al completar formularios de registro y edición        | 2                  | Yasser        | Done   |
 
+#### 5.3.4.4. Development Evidence for Sprint Review.
+
+| Repository      | Branch     | Commit Id | Commit Message                                   | Commit Message Body                                                                                     | Committed   |
+|----------------|------------|-----------|--------------------------------------------------|----------------------------------------------------------------------------------------------------------|-------------|
+| Frock-BackEnd  | main       | d4f00ff   | chore: update swagger documentation              | Última actualización de Swagger con descripciones por endpoint                                           | 2025/07/06  |
+| Frock-FrontEnd | discovery  | ff75af0   | feat: add final endpoint validations             | Se validan los endpoints de rutas, paraderos y autenticación final                                       | 2025/07/03  |
+| Frock-FrontEnd | develop    | 81b1a2f   | feat: responsive adjustments and route detail    | Ajustes de diseño responsive y vista completa de rutas                                                   | 2025/07/04  |
+| Frock-FrontEnd | develop    | c72f5ae   | fix: remove duplicated route data                | Corrección de datos duplicados en rutas de empresa                                                       | 2025/07/05  |
+| Frock-FrontEnd | develop    | 1abf35d   | style: adjust map component on landing           | Mejoras visuales y posicionamiento de mapa interactivo                                                   | 2025/07/06  |
+| Frock-FrontEnd | develop    | 18dce52   | fix(edit-stop-popup): update locality            | Locality fue reemplazado por district y se maneja ID de empresa desde localStorage                       | 2025/07/06  |
+| Frock-FrontEnd | develop    | e26c0c6   | feat(routes-alpha-filter): implement district filter | Filtro por distrito con funcionalidades de búsqueda y borrado                                        | 2025/07/04  |
+| Frock-FrontEnd | develop    | 4fdac05   | refactor: improve login and register pages       | Mejoras visuales y de estructura para login y registro                                                   | 2025/07/03  |
+
+#### 5.3.4.5.	Execution Evidence for Sprint Review.
+
+Durante el Sprint 4, se consolidaron todas las funcionalidades de **ChapatuRuta**, incluyendo vistas finales de rutas, formularios pulidos y comportamiento responsive completo. Se corrigieron errores menores, se integraron los endpoints restantes y se realizaron pruebas completas de flujo para cada tipo de usuario.
+
+***Landing Final***
+
+![Landing Final]
+
+***Swagger API Final***
+
+![Swagger]
+
+#### 5.3.4.6.	Services Documentation Evidence for Sprint Review.
+
+Todos los servicios RESTful se encuentran documentados en Swagger, abarcando los bounded contexts principales: **Companies**, **Stops**, **Routes** y **IAM**. Se añadieron descripciones por endpoint, formatos de entrada/salida y códigos de respuesta esperados.
+
+***API Swagger - Overview***
+
+![API Swagger]
+
+#### 5.3.4.7.	Software Deployment Evidence for Sprint Review.
+
+#### 5.3.4.8.	Team Collaboration Insights during Sprint.
+
 ## 5.4. Validation Interviews.
 ### 5.4.1. Diseño de Entrevistas.
 
