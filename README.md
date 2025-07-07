@@ -56,15 +56,20 @@ FrontEnd: https://github.com/Frock-WEB/Frock-FrontEnd
 
 Backend: https://github.com/Frock-WEB/Frock-back-end
 
-TB2: El equipo entero participó en el desarrollo del sistema, asignando las tareas de manera equitativa entre todos. También trabajamos juntos en aspectos esenciales, como las entrevistas con usuarios y el diseño de la página de inicio. Este método integral y colaborativo nos permitió asegurar calidad y eficiencia durante todas las fases del proyecto.  
+TF: El equipo completo participó activamente en la consolidación final del sistema, conectando de forma integral el frontend con el backend. Las tareas se distribuyeron equitativamente, permitiendo avanzar en paralelo en la implementación de los endpoints restantes y la mejora visual del frontend. Esta colaboración coordinada fue clave para asegurar la funcionalidad y cohesión del producto final.
 
-* Cada miembro redactó y organizó sus contenidos en formato Markdown, haciendo commits para garantizar el progreso en el repositorio.
-* Se crearon los artefactos necesarios usando las herramientas recomendadas y se obtuvieron enlaces de imagen desde la carpeta "assets" en la rama develop del repositorio del informe.
-* Se programaron reuniones para coordinar el avance de los elementos del informe y comunicar los logros del Sprint 3, centrado en la página de inicio.  
+Cada integrante aportó al desarrollo realizando commits constantes, manteniendo la documentación en formato Markdown organizada y actualizada en el repositorio.
 
-<img src="./assets/Insight.png" alt="collaboration insights sprint1" style="width: 600px"/>
+Se implementaron todos los endpoints necesarios para el correcto funcionamiento del sistema, validando su conexión con los componentes del frontend.
 
-# Student Outcome ABET
+Se realizaron ajustes visuales y estructurales en el frontend para mejorar la experiencia del usuario y reflejar los cambios del backend.
+
+Se programaron reuniones periódicas para coordinar el despliegue y revisar los avances finales del proyecto, garantizando una entrega de calidad al cierre del Sprint 4.
+
+
+<img src="./assets/Sprint4.PNG" alt="collaboration insights sprint1" style="width: 600px"/>
+
+# Student Outcome 
 
 El curso contribuye al cumplimiento del **Student Outcome ABET:ABET – EAC - Student Outcome 5** 
 
@@ -72,8 +77,9 @@ El curso contribuye al cumplimiento del **Student Outcome ABET:ABET – EAC - St
 
 | Criterio Específico | Acciones Realizadas | Conclusiones |
 |---------------------|---------------------|--------------|
-| Trabaja en equipo para proporcionar liderazgo en forma conjunta | **TB2:**<br>**Yasser Rentería Palacios:** Coordinó las reuniones del equipo, lideró la implementación del frontend con Angular y estableció los estándares de desarrollo para la interfaz de usuario.<br>**Adrian Valerio García:** Propuso soluciones técnicas para la arquitectura del sistema, lideró el diseño de la base de datos y coordinó la integración entre frontend y backend.<br>**Amir Gabriel Castro Sanchez:** Lideró la implementación del backend con .NET Core, estableció la arquitectura de APIs RESTful y supervisó la implementación de los patrones de diseño.<br>**Jesús Iván Castillo Vidal:** Supervisó el progreso técnico del proyecto, coordinó las pruebas de integración y lideró las revisiones de código para mantener la calidad del desarrollo. | Se logró establecer un liderazgo técnico compartido entre los miembros del equipo, donde cada integrante lideró aspectos específicos del desarrollo (frontend, backend, base de datos, testing), facilitando la coordinación de tareas técnicas complejas. |
-| Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos | **TB2:**<br>**Yasser Rentería Palacios:** Implementó las funcionalidades del frontend de manera colaborativa, estableció metas de desarrollo por sprints y promovió la revisión conjunta del código Angular.<br>**Adrian Valerio García:** Fomentó un ambiente inclusivo en las decisiones de arquitectura, planificó la estructura de la base de datos considerando las necesidades de todos los módulos y estableció objetivos de rendimiento.<br>**Amir Gabriel Castro Sanchez:** Planificó y desarrolló los endpoints del backend de forma modular, estableció metas de desarrollo de APIs y ajustó tareas para cumplir con los requerimientos funcionales.<br>**Jesús Iván Castillo Vidal:** Motivó al equipo durante el desarrollo, estableció objetivos de calidad de código, planificó las pruebas de integración y aseguró el cumplimiento de los plazos de entrega técnica. | Se creó un ambiente de colaboración técnica efectiva e inclusiva, donde cada miembro contribuyó desde su expertise (desarrollo frontend, backend, base de datos, testing), cumpliendo las metas técnicas planteadas para cada sprint y logrando la integración exitosa de todos los componentes del sistema. |
+| Trabaja en equipo para proporcionar liderazgo en forma conjunta | **TB2:**<br>**Yasser Rentería Palacios:** Coordinó las reuniones del equipo, lideró la implementación del frontend con Vue y estableció los estándares de desarrollo para la interfaz de usuario.<br>**Adrian Valerio García:** Propuso soluciones técnicas para la arquitectura del sistema, lideró el diseño de la base de datos y coordinó la integración entre frontend y backend.<br>**Amir Gabriel Castro Sanchez:** Lideró la implementación del backend con .NET Core, estableció la arquitectura de APIs RESTful y supervisó la implementación de los patrones de diseño.<br>**Jesús Iván Castillo Vidal:** Supervisó el progreso técnico del proyecto, coordinó las pruebas de integración y lideró las revisiones de código para mantener la calidad del desarrollo.<br><br>**TF:**<br>**Yasser Rentería Palacios:** Finalizó la integración del frontend con todos los endpoints del backend, refinó componentes visuales en Vue y lideró las pruebas de usabilidad del sistema.<br>**Adrian Valerio García:** Consolidó la lógica de integración del sistema completo, resolviendo conflictos entre capas y lideró el despliegue del backend en ambiente productivo.<br>**Amir Gabriel Castro Sanchez:** Completó todos los endpoints REST, garantizó la validación de datos y lideró el aseguramiento de calidad del backend.<br>**Jesús Iván Castillo Vidal:** Coordinó los últimos ajustes técnicos del sistema, gestionó las pruebas de extremo a extremo y consolidó la documentación técnica final. | Se logró establecer un liderazgo técnico compartido entre los miembros del equipo, donde cada integrante lideró aspectos específicos del desarrollo (frontend, backend, base de datos, testing), facilitando la coordinación de tareas técnicas complejas. |
+| Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos | **TB2:**<br>**Yasser Rentería Palacios:** Implementó las funcionalidades del frontend de manera colaborativa, estableció metas de desarrollo por sprints y promovió la revisión conjunta del código Vue.<br>**Adrian Valerio García:** Fomentó un ambiente inclusivo en las decisiones de arquitectura, planificó la estructura de la base de datos considerando las necesidades de todos los módulos y estableció objetivos de rendimiento.<br>**Amir Gabriel Castro Sanchez:** Planificó y desarrolló los endpoints del backend de forma modular, estableció metas de desarrollo de APIs y ajustó tareas para cumplir con los requerimientos funcionales.<br>**Jesús Iván Castillo Vidal:** Motivó al equipo durante el desarrollo, estableció objetivos de calidad de código, planificó las pruebas de integración y aseguró el cumplimiento de los plazos de entrega técnica.<br><br>**TF:**<br>**Yasser Rentería Palacios:** Promovió sesiones de revisión colaborativa del código, organizó tareas de ajuste visual y gestionó el cierre de tareas del frontend en el tablero de trabajo.<br>**Adrian Valerio García:** Coordinó la planificación final de tareas técnicas, ajustó las metas para cumplir con el cierre del proyecto e impulsó la colaboración continua entre todos los miembros.<br>**Amir Gabriel Castro Sanchez:** Documentó todos los endpoints en Swagger, adaptó tareas backend según retroalimentación del equipo y mantuvo sincronización con el frontend.<br>**Jesús Iván Castillo Vidal:** Consolidó el cronograma de cierre, propuso soluciones a problemas detectados en pruebas y promovió una cultura de mejora continua hasta el final del proyecto. | Se creó un ambiente de colaboración técnica efectiva e inclusiva, donde cada miembro contribuyó desde su expertise (desarrollo frontend, backend, base de datos, testing), cumpliendo las metas técnicas planteadas para cada sprint y logrando la integración exitosa de todos los componentes del sistema. |
+
 
 
 ## Table of Contents
@@ -173,5 +179,32 @@ El curso contribuye al cumplimiento del **Student Outcome ABET:ABET – EAC - St
         - [5.2.1.6. Services Documentation Evidence for Sprint Review](/Chapter-V.md#5216-services-documentation-evidence-for-sprint-review)
         - [5.2.1.7. Software Deployment Evidence for Sprint Review](/Chapter-V.md#5217-software-deployment-evidence-for-sprint-review)
         - [5.2.1.8. Team Collaboration Insights during Sprint](/Chapter-V.md#5218-team-collaboration-insights-during-sprint)
+    - [5.2.2. Sprint 2](./Chapter-V.md#522-sprint-2)
+        - [5.2.2.1. Sprint Planning 2](./Chapter-V.md#5221-sprint-planning-2)
+        - [5.2.2.2. Sprint Backlog 2](./Chapter-V.md#5222-sprint-backlog-2)
+        - [5.2.2.3. Development Evidence for Sprint Review](./Chapter-V.md#5223-development-evidence-for-sprint-2)
+        - [5.2.2.4. Testing Suite Evidence for Sprint Review](./Chapter-V.md#5224-testing-suite-evidence-for-sprint-2)
+        - [5.2.2.5. Execution Evidence for Sprint Review](./Chapter-V.md#5225-execution-evidence-for-sprint-2)
+        - [5.2.2.6. Services Documentation Evidence for Sprint Review](./Chapter-V.md#5226-services-documentation-evidence-for-sprint-2)
+        - [5.2.2.7. Software Deployment Evidence for Sprint Review](./Chapter-V.md#5227-software-deployment-evidence-for-sprint-2)
+        - [5.2.2.8. Team Collaboration Insights during Sprint](./Chapter-V.md#5228-team-collaboration-insights-during-sprint)
+     - [5.3.3. Sprint 3](./Chapter-V.md#533-sprint-3)
+        - [5.3.3.1. Sprint Planning 3](./Chapter-V.md#5331-sprint-planning-3)
+        - [5.3.3.2. Sprint Backlog 3](./Chapter-V.md#5332-sprint-backlog-3)
+        - [5.3.3.3. Development Evidence for Sprint Review](./Chapter-V.md#5333-development-evidence-for-sprint-3)
+        - [5.3.3.4. Testing Suite Evidence for Sprint Review](./Chapter-V.md#5334-testing-suite-evidence-for-sprint-3)
+        - [5.3.3.5. Execution Evidence for Sprint Review](./Chapter-V.md#5335-execution-evidence-for-sprint-3)
+        - [5.3.3.6. Services Documentation Evidence for Sprint Review](./Chapter-V.md#5336-services-documentation-evidence-for-sprint-3)
+        - [5.3.3.7. Software Deployment Evidence for Sprint Review](./Chapter-V.md#5337-software-deployment-evidence-for-sprint-3)
+        - [5.3.3.8. Team Collaboration Insights during Sprint](./Chapter-V.md#5338-team-collaboration-insights-during-sprint)
+     - [5.2.4. Sprint 4](./Chapter-V.md#524-sprint-4)
+        - [5.2.4.1. Sprint Planning 4](./Chapter-V.md#5241-sprint-planning-4)
+        - [5.2.4.2. Sprint Backlog 4](./Chapter-V.md#5242-sprint-backlog-4)
+        - [5.2.4.3. Development Evidence for Sprint Review](./Chapter-V.md#5243-development-evidence-for-sprint-4)
+        - [5.2.4.4. Testing Suite Evidence for Sprint Review](./Chapter-V.md#5244-testing-suite-evidence-for-sprint-4)
+        - [5.2.4.5. Execution Evidence for Sprint Review](./Chapter-V.md#5245-execution-evidence-for-sprint-4)
+        - [5.2.4.6. Services Documentation Evidence for Sprint Review](./Chapter-V.md#5246-services-documentation-evidence-for-sprint-4)
+        - [5.2.4.7. Software Deployment Evidence for Sprint Review](./Chapter-V.md#5247-software-deployment-evidence-for-sprint-4)
+        - [5.2.4.8. Team Collaboration Insights during Sprint](./Chapter-V.md#5248-team-collaboration-insights-during-sprint)
       
 </center>
