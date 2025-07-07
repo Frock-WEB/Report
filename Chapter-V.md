@@ -1267,7 +1267,7 @@ Landing Page Desplegada: https://frock-web.github.io/LandingFrock/
 
 Front Web Applications Desplegado: https://deft-tapioca-c27a9c.netlify.app/
 
-Backend Desplegado: frock-back-end-production.up.railway.app
+Backend Desplegado: https://frock-back-end-production.up.railway.app/index.html
 
 ![66660649-8e68-449b-b418-fe6dadf8df43](https://github.com/user-attachments/assets/abfed1eb-e0a5-4730-b4b4-be2f7c927642)
 
