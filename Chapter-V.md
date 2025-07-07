@@ -885,8 +885,8 @@ Tras finalizar el Sprint 3, hemos logrado implementar los endpoints principales 
 | Sprint 4 Velocity | - |
 | Sum of story points | - |
 
-## 5.3. Validation Interviews.
-### 5.3.1. Diseño de Entrevistas.
+## 5.4. Validation Interviews.
+### 5.4.1. Diseño de Entrevistas.
 
 ## Datos del Usuario
 - **Nombre:** _______________
@@ -917,7 +917,7 @@ Tras finalizar el Sprint 3, hemos logrado implementar los endpoints principales 
 
 ---
 
-### 5.3.2. Registro de Entrevistas.
+### 5.4.2. Registro de Entrevistas.
 
 ![In1](./assets/In1.PNG)
 
@@ -962,7 +962,7 @@ https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214130_upc_edu_pe/EWZIAPv6
 https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214130_upc_edu_pe/EW7d6v2o1_VLiEPwuV-pFSUBfpuHQu0HOtRHbbVj2KKKaw?e=zhaJFv
 
 
-### 5.3.3. Evaluaciones según heurísticas.
+### 5.4.3. Evaluaciones según heurísticas.
 
 # UX Heuristics & Principles Evaluation
 ## Usability – Inclusive Design – Information Architecture
@@ -1116,7 +1116,7 @@ La validación de formularios ocurre solo al envío, no proporcionando feedback 
 **Recomendación:**
 Implementar validación en tiempo real con feedback inmediato, manteniendo un balance entre ser útil y no ser intrusivo.
 
-## 5.4. Video About-the-Product.  
+## 5.5. Video About-the-Product.  
 
 **LINK DE ACCESO AL VIDEO:** https://upcedupe-my.sharepoint.com/:f:/g/personal/u202214130_upc_edu_pe/Eol2tkHQItxAn8woQMXUUTQBgJi3MWuehDVBPoE6CaJQhw?e=e78EokSSss
 
