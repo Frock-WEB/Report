@@ -885,6 +885,16 @@ Tras finalizar el Sprint 3, hemos logrado implementar los endpoints principales 
 | Sprint 4 Velocity | - |
 | Sum of story points | - |
 
+#### 5.3.4.2.	Aspect Leaders and Collaborators.
+
+| Team Member (Last Name, First Name) | GitHub Username | Diseño de Arquitectura Backend | Implementación de Autenticación | Desarrollo de APIs REST | Diseño de Base de Datos | Implementación Frontend | Integración de Servicios | Testing y Validación | Documentación Técnica |
+|--------------------------------------|-----------------|---------|---------|---------|---------|---------|---------|---------|---------|
+| Rentería Palacios, Yasser | Mitawarmi2000 | C | C | | | L | | C | C |
+| Valerio García, Adrián Emanuel | adrianvalerio | C | L | |  | C | C | C | L |  
+| Castillo Vidal, Jesús Iván | Jcdev04 | L | C | C | | L | | | C | 
+| Castro Sánchez, Amir Gabriel | AmirbarrabajaLeon | L | | C | L | | C | C |  |
+
+
 ## 5.4. Validation Interviews.
 ### 5.4.1. Diseño de Entrevistas.
 
