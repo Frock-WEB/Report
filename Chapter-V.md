@@ -1184,46 +1184,21 @@ Implementar validación en tiempo real con feedback inmediato, manteniendo un ba
 
 ## Conclusiones y Recomendaciones
 
-## Conclusiones del Sprint 3
+## Conclusiones del Sprint 4
 
-### Logros Alcanzados
-- **API Backend**: Se implementaron exitosamente los endpoints principales para los bounded contexts de Stops, Companies y Geographic
-- **Arquitectura**: La estructura de la API sigue buenas prácticas REST y principios de DDD
-- **Funcionalidad Core**: Las operaciones CRUD básicas están operativas y permiten la gestión fundamental del sistema
+#### 5.3.4.9. Final Sprint Reflections
 
-### Áreas de Mejora Identificadas
-- **Validación de Datos**: Los endpoints carecen de validación robusta de entrada
-- **Manejo de Errores**: No hay un sistema consistente de respuestas de error
-- **Integración Frontend**: Falta conectar la API con la interfaz de usuario
-- **Optimización**: Algunos endpoints podrían necesitar mejoras de rendimiento
+El Sprint 4 representó la culminación de todo el ciclo de desarrollo de *ChapatuRuta*, consolidando los esfuerzos técnicos, de diseño y colaboración realizados durante las semanas anteriores. En este último sprint, el equipo logró cerrar satisfactoriamente todos los pendientes críticos, entre ellos:
 
-## Recomendaciones para Sprint 4
+- La integración completa entre frontend y backend.
+- La implementación de validaciones robustas y manejo de errores en los endpoints.
+- La documentación técnica de servicios RESTful mediante Swagger.
+- El ajuste visual responsivo de la aplicación y mejoras significativas de experiencia de usuario.
+- El despliegue exitoso de los entornos productivos tanto del frontend como del backend.
 
-### Prioridades Altas
-1. **Implementar Validación de Datos**
-   - Agregar validaciones en todos los endpoints POST y PUT
-   - Validar formatos de ID, nombres y datos requeridos
-   - Retornar mensajes de error claros
+Además, se reforzaron prácticas de trabajo colaborativo mediante la revisión de pull requests, pruebas cruzadas y sesiones de validación diaria. El equipo demostró una madurez técnica destacable y una visión clara de los objetivos del proyecto, entregando una solución funcional, accesible y lista para ser presentada como producto mínimo viable.
 
-2. **Manejo Consistente de Errores**
-   - Estandarizar códigos de respuesta HTTP
-   - Crear estructura uniforme para respuestas de error
-   - Implementar logging básico
-
-3. **Integración Frontend-Backend**
-   - Conectar la Landing Page con los endpoints de la API
-   - Implementar llamadas HTTP desde el frontend
-   - Mostrar datos reales en lugar de contenido estático
-
-### Prioridades Medias
-4. **Optimización de Rendimiento**
-   - Implementar paginación en endpoints que retornan listas
-   - Optimizar consultas de búsqueda por localidad y nombre
-   - Agregar filtros adicionales para mejorar la experiencia
-
-5. **Documentación API**
-   - Completar documentación con ejemplos de request/response
-   - Agregar códigos de error posibles
+Este sprint no solo cerró el desarrollo del sistema, sino que también permitió reflexionar sobre la evolución del equipo, el aprendizaje adquirido y la capacidad de enfrentar desafíos técnicos reales. *ChapatuRuta* queda así como un ejemplo tangible de cómo una idea puede transformarse en una solución digital coherente, escalable y alineada a una necesidad real del entorno urbano y social.
 
 ## Video About-the-Team
 
