@@ -945,11 +945,15 @@ Durante el Sprint 4, se consolidaron todas las funcionalidades de **ChapatuRuta*
 
 ***Landing Final***
 
-![Landing Final]
+![In1](./assets/LandUltimate.PNG)
+
+***Frontend Final***
+
+![In1](./assets/FrontUltimate.PNG)
 
 ***Swagger API Final***
 
-![Swagger]
+![In1](./assets/SwaggerUltimate.PNG)
 
 #### 5.3.4.7.	Services Documentation Evidence for Sprint Review.
 
@@ -957,11 +961,13 @@ Todos los servicios RESTful se encuentran documentados en Swagger, abarcando los
 
 ***API Swagger - Overview***
 
-![API Swagger]
+![In1](./assets/SwaggerUltimate.PNG)
 
 #### 5.3.4.8.	Software Deployment Evidence for Sprint Review.
 
 #### 5.3.4.9.	Team Collaboration Insights during Sprint.
+
+![In1](./assets/Sprint4.PNG)
 
 ## 5.4. Validation Interviews.
 ### 5.4.1. Diseño de Entrevistas.
